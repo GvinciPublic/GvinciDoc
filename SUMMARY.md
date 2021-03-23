@@ -19,6 +19,8 @@
     * [Esqueci minha senha](manual-do-usuario/iniciando/login-no-gvinci/esqueci-minha-senha.md)
     * [Informar código](manual-do-usuario/iniciando/login-no-gvinci/informar-codigo.md)
     * [Reconfigurar servidor](manual-do-usuario/iniciando/login-no-gvinci/reconfigurar-servidor.md)
+* [Área de trabalho do Gvinci](manual-do-usuario/area-de-trabalho-do-gvinci/README.md)
+  * [Design](manual-do-usuario/area-de-trabalho-do-gvinci/design.md)
 
 ## Tutoriais em Vídeo
 
