@@ -27,7 +27,13 @@
     * [Excluindo uma figura no fundo do design](manual-do-usuario/area-de-trabalho-do-gvinci/design/excluindo-uma-figura-no-fundo-do-design.md)
   * [Módulos da solução &lt;F3&gt;](manual-do-usuario/area-de-trabalho-do-gvinci/modulos-da-solucao-less-than-f3-greater-than/README.md)
     * [Excluindo Módulos](manual-do-usuario/area-de-trabalho-do-gvinci/modulos-da-solucao-less-than-f3-greater-than/excluindo-modulos.md)
-  * [Untitled](manual-do-usuario/area-de-trabalho-do-gvinci/untitled-1.md)
+    * [Inserindo módulos](manual-do-usuario/area-de-trabalho-do-gvinci/modulos-da-solucao-less-than-f3-greater-than/inserindo-modulos.md)
+    * [Renomeando módulos](manual-do-usuario/area-de-trabalho-do-gvinci/modulos-da-solucao-less-than-f3-greater-than/renomeando-modulos.md)
+  * [Painéis](manual-do-usuario/area-de-trabalho-do-gvinci/untitled-1/README.md)
+    * [Bancos de dados &lt;F8&gt;](manual-do-usuario/area-de-trabalho-do-gvinci/untitled-1/bancos-de-dados-less-than-f8-greater-than/README.md)
+      * [Campos](manual-do-usuario/area-de-trabalho-do-gvinci/untitled-1/bancos-de-dados-less-than-f8-greater-than/campos/README.md)
+        * [Campos já existentes](manual-do-usuario/area-de-trabalho-do-gvinci/untitled-1/bancos-de-dados-less-than-f8-greater-than/campos/campos-ja-existentes.md)
+  * [Untitled](manual-do-usuario/area-de-trabalho-do-gvinci/untitled.md)
 
 ## Tutoriais em Vídeo
 
