@@ -279,7 +279,7 @@
 
 * [Recursos](tutoriais-em-video/recursos.md)
 * [Curso](tutoriais-em-video/curso/README.md)
-  * [App Financeiro](tutoriais-em-video/curso/untitled/README.md)
+  * [Criando um App Financeiro](tutoriais-em-video/curso/untitled/README.md)
     * [Aula 01 - Apresentação do Sistema](tutoriais-em-video/curso/untitled/aula-01-apresentacao-do-sistema.md)
     * [Aula 02 - Criando o Banco de dados](tutoriais-em-video/curso/untitled/aula-02-criando-o-banco-de-dados.md)
     * [Aula 03 - Dicas, Extensões e Ferramentas](tutoriais-em-video/curso/untitled/aula-03-dicas-extensoes-e-ferramentas.md)
@@ -305,9 +305,6 @@
     * [Aula 23 - Gerar parcelamento via PPD - Parte 2](tutoriais-em-video/curso/untitled/aula-23-gerar-parcelamento-via-ppd-parte-2.md)
     * [Aula 24 - Filtro no grid de lançamentos - Parte 1](tutoriais-em-video/curso/untitled/aula-24-filtro-no-grid-de-lancamentos-parte-1.md)
     * [Aula 25 - Filtro no grid de lançamentos - Parte 2](tutoriais-em-video/curso/untitled/aula-25-filtro-no-grid-de-lancamentos-parte-2.md)
-    * [Untitled](tutoriais-em-video/curso/untitled/untitled.md)
-    * [Untitled](tutoriais-em-video/curso/untitled/untitled-1.md)
-    * [Untitled](tutoriais-em-video/curso/untitled/untitled-2.md)
 
 ## FAQ
 
