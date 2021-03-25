@@ -274,7 +274,6 @@
     * [Definindo as propriedades da solução](manual-do-usuario/area-de-trabalho-do-gvinci/trabalhando-com-a-solucao/definindo-as-propriedades-da-solucao.md)
   * [Definindo um projeto](manual-do-usuario/area-de-trabalho-do-gvinci/definindo-um-projeto/README.md)
     * [Criando uma página de Login](manual-do-usuario/area-de-trabalho-do-gvinci/definindo-um-projeto/criando-uma-pagina-de-login.md)
-  * [Untitled](manual-do-usuario/area-de-trabalho-do-gvinci/untitled-3.md)
 
 ## Tutoriais em Vídeo
 
