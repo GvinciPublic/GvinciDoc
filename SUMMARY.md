@@ -22,6 +22,9 @@
 * [Área de trabalho do Gvinci](manual-do-usuario/area-de-trabalho-do-gvinci/README.md)
   * [Design](manual-do-usuario/area-de-trabalho-do-gvinci/design/README.md)
     * [Ferramentas do design](manual-do-usuario/area-de-trabalho-do-gvinci/design/ferramentas-do-design.md)
+    * [Formatando a tela](manual-do-usuario/area-de-trabalho-do-gvinci/design/formatando-a-tela.md)
+    * [Inserindo controles no design](manual-do-usuario/area-de-trabalho-do-gvinci/design/inserindo-controles-no-design.md)
+    * [Excluindo uma figura no fundo do design](manual-do-usuario/area-de-trabalho-do-gvinci/design/excluindo-uma-figura-no-fundo-do-design.md)
 
 ## Tutoriais em Vídeo
 
