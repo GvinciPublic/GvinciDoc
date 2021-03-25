@@ -25,6 +25,9 @@
     * [Formatando a tela](manual-do-usuario/area-de-trabalho-do-gvinci/design/formatando-a-tela.md)
     * [Inserindo controles no design](manual-do-usuario/area-de-trabalho-do-gvinci/design/inserindo-controles-no-design.md)
     * [Excluindo uma figura no fundo do design](manual-do-usuario/area-de-trabalho-do-gvinci/design/excluindo-uma-figura-no-fundo-do-design.md)
+  * [Módulos da solução &lt;F3&gt;](manual-do-usuario/area-de-trabalho-do-gvinci/modulos-da-solucao-less-than-f3-greater-than/README.md)
+    * [Excluindo Módulos](manual-do-usuario/area-de-trabalho-do-gvinci/modulos-da-solucao-less-than-f3-greater-than/excluindo-modulos.md)
+  * [Untitled](manual-do-usuario/area-de-trabalho-do-gvinci/untitled-1.md)
 
 ## Tutoriais em Vídeo
 
