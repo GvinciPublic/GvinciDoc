@@ -309,5 +309,3 @@
 
 * [Untitled](faq/untitled.md)
 
-## Manual Gvinci
-
