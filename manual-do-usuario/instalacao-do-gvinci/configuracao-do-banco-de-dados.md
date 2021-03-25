@@ -1,6 +1,6 @@
 # Configuração do Banco de Dados
 
-![](../../../.gitbook/assets/image.png)
+![](../../.gitbook/assets/image.png)
 
 Quando for utilizar o **Gvinci** pela primeira vez, você não precisa definir as configurações de banco de dados da ferramenta.
 

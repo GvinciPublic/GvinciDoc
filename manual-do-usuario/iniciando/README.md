@@ -1,2 +1,2 @@
-# Iniciando
+# Instalando o
 

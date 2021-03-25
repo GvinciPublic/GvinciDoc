@@ -5,12 +5,12 @@
 ## Manual do Usuário
 
 * [Introdução](manual-do-usuario/introducao.md)
-* [Iniciando](manual-do-usuario/iniciando/README.md)
-  * [Instalação do GVinci](manual-do-usuario/iniciando/instalacao-do-gvinci/README.md)
-    * [Requisitos do Sistema](manual-do-usuario/iniciando/instalacao-do-gvinci/requisitos-do-sistema.md)
-    * [Configuração do Banco de Dados](manual-do-usuario/iniciando/instalacao-do-gvinci/configuracao-do-banco-de-dados.md)
-    * [Baixando e instalando o SQL Server 2012 Express](manual-do-usuario/iniciando/instalacao-do-gvinci/baixando-e-instalando-o-sql-server-2012-express.md)
-    * [Abrindo o SQL Management Studio](manual-do-usuario/iniciando/instalacao-do-gvinci/abrindo-o-sql-management-studio.md)
+* [Instalação do GVinci](manual-do-usuario/instalacao-do-gvinci/README.md)
+  * [Requisitos do Sistema](manual-do-usuario/instalacao-do-gvinci/requisitos-do-sistema.md)
+  * [Configuração do Banco de Dados](manual-do-usuario/instalacao-do-gvinci/configuracao-do-banco-de-dados.md)
+  * [Baixando e instalando o SQL Server 2012 Express](manual-do-usuario/instalacao-do-gvinci/baixando-e-instalando-o-sql-server-2012-express.md)
+  * [Abrindo o SQL Management Studio](manual-do-usuario/instalacao-do-gvinci/abrindo-o-sql-management-studio.md)
+* [Instalando o](manual-do-usuario/iniciando/README.md)
   * [Tela inicial do Gvinci](manual-do-usuario/iniciando/tela-inicial-do-gvinci.md)
   * [Criando nova Solução](manual-do-usuario/iniciando/criando-nova-solucao.md)
   * [Abrindo uma Solução existente](manual-do-usuario/iniciando/abrindo-uma-solucao-existente.md)
