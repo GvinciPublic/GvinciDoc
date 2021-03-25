@@ -6,7 +6,6 @@
 
 * [Introdução](manual-do-usuario/introducao.md)
 * [Iniciando](manual-do-usuario/iniciando/README.md)
-  * [Untitled](manual-do-usuario/iniciando/untitled.md)
   * [Requisitos do Sistema](manual-do-usuario/iniciando/requisitos-do-sistema.md)
   * [Instalação do GVinci](manual-do-usuario/iniciando/instalacao-do-gvinci.md)
   * [Configuração do Banco de Dados](manual-do-usuario/iniciando/configuracao-do-banco-de-dados.md)
