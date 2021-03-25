@@ -288,5 +288,3 @@
 
 ## Manual Gvinci
 
-* [GVINCI \(Gvinci\)](manual-gvinci/untitled.md)
-
