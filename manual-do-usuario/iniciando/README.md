@@ -1,2 +1,2 @@
-# Instalando o
+# Acessando o Gvinci
 
