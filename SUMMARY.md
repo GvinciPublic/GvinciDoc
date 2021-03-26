@@ -369,11 +369,14 @@
     * [Inserindo parâmetros](manual-do-usuario/area-de-trabalho-do-gvinci/parametros-de-query-strings/inserindo-parametros.md)
   * [JavaScript - definição](manual-do-usuario/area-de-trabalho-do-gvinci/javascript-definicao/README.md)
     * [Comentários em JavaScript](manual-do-usuario/area-de-trabalho-do-gvinci/javascript-definicao/comentarios-em-javascript.md)
-  * [Trabalhando com a solução](manual-do-usuario/area-de-trabalho-do-gvinci/trabalhando-com-a-solucao/README.md)
-    * [Definindo as propriedades da solução](manual-do-usuario/area-de-trabalho-do-gvinci/trabalhando-com-a-solucao/definindo-as-propriedades-da-solucao.md)
-  * [Definindo um projeto](manual-do-usuario/area-de-trabalho-do-gvinci/definindo-um-projeto/README.md)
-    * [Criando uma página de Login](manual-do-usuario/area-de-trabalho-do-gvinci/definindo-um-projeto/criando-uma-pagina-de-login.md)
   * [Atualização](manual-do-usuario/area-de-trabalho-do-gvinci/atualizacao.md)
+
+---
+
+* [Trabalhando com a solução](trabalhando-com-a-solucao/README.md)
+  * [Definindo as propriedades da solução](trabalhando-com-a-solucao/definindo-as-propriedades-da-solucao.md)
+  * [Definindo um projeto](trabalhando-com-a-solucao/definindo-um-projeto/README.md)
+    * [Criando uma página de Login](trabalhando-com-a-solucao/definindo-um-projeto/criando-uma-pagina-de-login.md)
 
 ## Tutoriais em Vídeo
 
