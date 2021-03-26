@@ -487,5 +487,3 @@
 
 ## Novidades
 
-* [SSI Documentação](novidades/release-notes.md)
-
