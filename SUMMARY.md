@@ -6,7 +6,7 @@
 
 * [Introdução](manual-do-usuario/introducao.md)
 * [Get Started](manual-do-usuario/get-started/README.md)
-  * [Tour resumido pelo Gvinci](manual-do-usuario/get-started/tour-resumido-pelo-gvinci.md)
+  * [Tour rápido pelo Gvinci](manual-do-usuario/get-started/tour-resumido-pelo-gvinci.md)
   * [Criando um sistema web \(Exemplo 1\)](manual-do-usuario/get-started/criando-um-sistema-web-exemplo-1/README.md)
     * [Criando uma nova solução](manual-do-usuario/get-started/criando-um-sistema-web-exemplo-1/criando-uma-nova-solucao.md)
     * [Criando o banco de dados](manual-do-usuario/get-started/criando-um-sistema-web-exemplo-1/criando-o-banco-de-dados.md)

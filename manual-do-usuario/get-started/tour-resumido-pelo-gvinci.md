@@ -1,2 +1,2 @@
-# Tour resumido pelo Gvinci
+# Tour rápido pelo Gvinci
 
