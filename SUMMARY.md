@@ -7,6 +7,7 @@
 * [Introdução](manual-do-usuario/introducao.md)
 * [Get Started](manual-do-usuario/get-started/README.md)
   * [Criando um sistema web \(Exemplo 1\)](manual-do-usuario/get-started/criando-um-sistema-web-exemplo-1/README.md)
+    * [Criando uma nova solução](manual-do-usuario/get-started/criando-um-sistema-web-exemplo-1/criando-uma-nova-solucao.md)
     * [Criando o banco de dados](manual-do-usuario/get-started/criando-um-sistema-web-exemplo-1/criando-o-banco-de-dados.md)
     * [Criando uma página de dados](manual-do-usuario/get-started/criando-um-sistema-web-exemplo-1/criando-uma-pagina-de-dados.md)
     * [Gerando os fontes](manual-do-usuario/get-started/criando-um-sistema-web-exemplo-1/gerando-os-fontes.md)
