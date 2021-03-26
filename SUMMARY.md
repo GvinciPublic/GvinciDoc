@@ -12,7 +12,6 @@
     * [Criando uma página de dados](manual-do-usuario/get-started/criando-um-sistema-web-exemplo-1/criando-uma-pagina-de-dados.md)
     * [Gerando os fontes](manual-do-usuario/get-started/criando-um-sistema-web-exemplo-1/gerando-os-fontes.md)
     * [Testando o sistema gerado](manual-do-usuario/get-started/criando-um-sistema-web-exemplo-1/testando-o-sistema-gerado.md)
-  * [Untitled](manual-do-usuario/get-started/untitled.md)
 * [Baixando e instalando o GVinci](manual-do-usuario/instalacao-do-gvinci/README.md)
   * [Requisitos do Sistema](manual-do-usuario/instalacao-do-gvinci/requisitos-do-sistema.md)
   * [Configuração do Banco de Dados](manual-do-usuario/instalacao-do-gvinci/configuracao-do-banco-de-dados.md)
