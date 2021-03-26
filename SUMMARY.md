@@ -6,6 +6,7 @@
 
 * [Introdução](manual-do-usuario/introducao.md)
 * [Get Started](manual-do-usuario/get-started/README.md)
+  * [Tour resumido pelo Gvinci](manual-do-usuario/get-started/tour-resumido-pelo-gvinci.md)
   * [Criando um sistema web \(Exemplo 1\)](manual-do-usuario/get-started/criando-um-sistema-web-exemplo-1/README.md)
     * [Criando uma nova solução](manual-do-usuario/get-started/criando-um-sistema-web-exemplo-1/criando-uma-nova-solucao.md)
     * [Criando o banco de dados](manual-do-usuario/get-started/criando-um-sistema-web-exemplo-1/criando-o-banco-de-dados.md)
@@ -27,7 +28,6 @@
     * [Informar código](manual-do-usuario/iniciando/login-no-gvinci/informar-codigo.md)
     * [Reconfigurar servidor](manual-do-usuario/iniciando/login-no-gvinci/reconfigurar-servidor.md)
 * [Conhecendo a IDE do Gvinci](manual-do-usuario/area-de-trabalho-do-gvinci/README.md)
-  * [Tour resumido pelo Gvinci](manual-do-usuario/area-de-trabalho-do-gvinci/tour-resumido-pelo-gvinci.md)
   * [Design](manual-do-usuario/area-de-trabalho-do-gvinci/design/README.md)
     * [Ferramentas do design](manual-do-usuario/area-de-trabalho-do-gvinci/design/ferramentas-do-design.md)
     * [Formatando a tela](manual-do-usuario/area-de-trabalho-do-gvinci/design/formatando-a-tela.md)
