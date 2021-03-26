@@ -1,4 +1,4 @@
-# Baixando e instalando o SQL Server 2012 Express
+# Baixando e instalando o SQL Server 2012 Express \(Opcional\)
 
 O SQL Server é utilizado pelo **Gvinci** para armazenar seus projetos e configurações.
 

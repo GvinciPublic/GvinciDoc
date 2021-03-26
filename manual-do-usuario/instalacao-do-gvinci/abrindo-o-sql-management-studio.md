@@ -1,4 +1,4 @@
-# Abrindo o SQL Management Studio
+# Abrindo o SQL Management Studio \(Opcional\)
 
 A instalação padrão do **Gvinci** instala apenas o servidor, para instalar o SQL Server Management Studio, baixe o programa [aqui](http://www.microsoft.com/pt-br/download/details.aspx?id=29062) e siga as instruções da instalação.
 

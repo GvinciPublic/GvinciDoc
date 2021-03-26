@@ -1,4 +1,4 @@
-# Instalação do GVinci
+# Baixando e instalando o GVinci
 
 Durante a instalação do **Gvinci**, o SQL Server também poderá ser instalado.  
 

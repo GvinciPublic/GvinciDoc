@@ -1,4 +1,4 @@
-# Área de trabalho do Gvinci
+# Conhecendo a IDE do Gvinci
 
 A área de trabalho no **Gvinci** é composta de painéis e ferramentas, tornando o desenho de telas prático e fácil. A estrutura do projeto é exibida no painel Módulos da solução. As ferramentas oferecem rapidez na execução das tarefas mais usadas.
 
