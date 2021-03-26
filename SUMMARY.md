@@ -9,8 +9,6 @@
   * [Baixando e instalando o GVinci](manual-do-usuario/get-started/instalacao-do-gvinci/README.md)
     * [Requisitos do Sistema](manual-do-usuario/get-started/instalacao-do-gvinci/requisitos-do-sistema.md)
     * [Configuração do Banco de Dados](manual-do-usuario/get-started/instalacao-do-gvinci/configuracao-do-banco-de-dados.md)
-    * [Baixando e instalando o SQL Server 2012 Express \(Opcional\)](manual-do-usuario/get-started/instalacao-do-gvinci/baixando-e-instalando-o-sql-server-2012-express.md)
-    * [Abrindo o SQL Management Studio \(Opcional\)](manual-do-usuario/get-started/instalacao-do-gvinci/abrindo-o-sql-management-studio.md)
   * [Tour rápido pelo Gvinci](manual-do-usuario/get-started/tour-resumido-pelo-gvinci/README.md)
     * [Acessando o Gvinci](manual-do-usuario/get-started/tour-resumido-pelo-gvinci/iniciando.md)
     * [Criando nova Solução](manual-do-usuario/get-started/tour-resumido-pelo-gvinci/criando-nova-solucao.md)
@@ -324,7 +322,9 @@
 
 ## FAQ
 
-* [Untitled](faq/untitled.md)
+* [Untitled](faq/untitled/README.md)
+  * [Baixando e instalando o SQL Server 2012 Express \(Opcional\)](faq/untitled/baixando-e-instalando-o-sql-server-2012-express/README.md)
+    * [Abrindo o SQL Management Studio \(Opcional\)](faq/untitled/baixando-e-instalando-o-sql-server-2012-express/abrindo-o-sql-management-studio.md)
 * [GVINCI \(Gvinci\)](faq/untitled-1/README.md)
   * [Gvinci : Propriedades &lt;F4&gt;](faq/untitled-1/gvinci-propriedades-less-than-f4-greater-than/README.md)
     * [Gvinci : BackgroundImage / Imagem de Fundo](faq/untitled-1/gvinci-propriedades-less-than-f4-greater-than/gvinci-backgroundimage-imagem-de-fundo.md)
