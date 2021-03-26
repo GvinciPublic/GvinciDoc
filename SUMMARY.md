@@ -451,6 +451,8 @@
 
 ## Tutoriais em Vídeo
 
+* [Recursos](tutoriais-em-video/recursos/README.md)
+  * [Introdução Básica a Responsividade](tutoriais-em-video/recursos/introducao-basica-a-responsividade.md)
 * [Curso](tutoriais-em-video/curso/README.md)
   * [Criando um App Financeiro](tutoriais-em-video/curso/untitled/README.md)
     * [Aula 01 - Apresentação do Sistema](tutoriais-em-video/curso/untitled/aula-01-apresentacao-do-sistema.md)
