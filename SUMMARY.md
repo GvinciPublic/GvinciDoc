@@ -485,3 +485,7 @@
   * [Baixando e instalando o SQL Server 2012 Express \(Opcional\)](faq/untitled/baixando-e-instalando-o-sql-server-2012-express/README.md)
     * [Abrindo o SQL Management Studio \(Opcional\)](faq/untitled/baixando-e-instalando-o-sql-server-2012-express/abrindo-o-sql-management-studio.md)
 
+## Novidades
+
+* [SSI Documentação](novidades/release-notes.md)
+
