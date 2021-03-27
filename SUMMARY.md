@@ -355,7 +355,6 @@
       * [Inserindo uma imagem no botão](manual-do-usuario/area-de-trabalho-do-gvinci/barra-de-ferramentas/personalizando-sua-barra-de-ferramentas/inserindo-uma-imagem-no-botao.md)
     * [Untitled](manual-do-usuario/area-de-trabalho-do-gvinci/barra-de-ferramentas/untitled-1.md)
   * [Menus do Gvinci](manual-do-usuario/area-de-trabalho-do-gvinci/untitled/README.md)
-    * [Untitled](manual-do-usuario/area-de-trabalho-do-gvinci/untitled/untitled.md)
     * [Menu Ajuda](manual-do-usuario/area-de-trabalho-do-gvinci/untitled/menu-ajuda.md)
     * [Menu Arquivo](manual-do-usuario/area-de-trabalho-do-gvinci/untitled/menu-arquivo.md)
     * [Menu Designer](manual-do-usuario/area-de-trabalho-do-gvinci/untitled/menu-designer/README.md)
