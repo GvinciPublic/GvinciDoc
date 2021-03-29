@@ -1,4 +1,4 @@
-# Gvinci : LoginTab
+# LoginTab
 
 Insere um controle com 2 guias:
 

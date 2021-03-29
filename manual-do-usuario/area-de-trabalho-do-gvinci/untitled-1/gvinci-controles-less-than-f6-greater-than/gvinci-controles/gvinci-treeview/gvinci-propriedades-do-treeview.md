@@ -1,4 +1,4 @@
-# Gvinci : Propriedades do TreeView
+# Propriedades do TreeView
 
 As propriedades do controle **TreeView** são as seguintes:
 

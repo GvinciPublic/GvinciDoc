@@ -1,4 +1,4 @@
-# Gvinci : DropDownTree
+# DropDownTree
 
 O controle **DropDownTree** tem função semelhante ao controle **ComboBox**, diferenciando por listar as informações em formato de árvores, mostrando os itens e subitens.
 

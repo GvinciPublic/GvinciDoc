@@ -1,4 +1,4 @@
-# Gvinci : Eventos do ComboBox
+# Eventos do ComboBox
 
 Os eventos disponíveis para o controle **ComboBox** são os seguintes:
 

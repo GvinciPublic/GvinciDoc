@@ -1,4 +1,4 @@
-# Gvinci : Propriedades do Pager
+# Propriedades do Pager
 
 As propriedades do controle **Pager** são as seguintes:
 

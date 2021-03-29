@@ -1,4 +1,4 @@
-# Gvinci : Folha de Estilo \(css\)
+# Folha de Estilo \(css\)
 
 Para entendermos o que significa \(Cascade Style Sheets\) podemos citar os slides pré-definidos no PowerPoint. Quando alteramos o estilo do slide, toda a apresentação é afetada, pois todos os slides terão a mesma aparência. Assim também funciona com as páginas quando você define uma folha de estilo: todo o site será alterado de acordo com o padrão escolhido.
 

@@ -1,4 +1,4 @@
-# Gvinci : EnableRowHoverStyle
+# EnableRowHoverStyle
 
 A propriedade EnableRowHoverStyle serve para mostra um efeito de destaque sempre que o usuário passa o mouse sobre a linha de um grid.
 

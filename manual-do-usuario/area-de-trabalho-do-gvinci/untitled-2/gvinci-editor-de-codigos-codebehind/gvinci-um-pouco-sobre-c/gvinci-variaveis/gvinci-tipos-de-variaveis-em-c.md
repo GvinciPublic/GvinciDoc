@@ -1,4 +1,4 @@
-# Gvinci : Tipos de variáveis em C\#
+# Tipos de variáveis em C\#
 
 As variáveis na linguagem **C\#** podem ser dos seguintes tipos:
 

@@ -1,4 +1,4 @@
-# Gvinci : Repeater - Footer
+# Repeater - Footer
 
 É a área de rodapé **\(Footer\)**, na última linha do controle **Repeater.** O conteúdo do **Footer** não se repete.
 

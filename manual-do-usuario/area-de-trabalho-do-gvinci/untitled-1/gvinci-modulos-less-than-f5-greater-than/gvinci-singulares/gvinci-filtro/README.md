@@ -1,4 +1,4 @@
-# Gvinci : Filtro
+# Filtro
 
 Um filtro é um conjunto de critérios aplicados a registros de modo a criar um subconjunto destes. Os filtros usados nas aplicações do **Gvinci** utilizam queries **SQL**.
 

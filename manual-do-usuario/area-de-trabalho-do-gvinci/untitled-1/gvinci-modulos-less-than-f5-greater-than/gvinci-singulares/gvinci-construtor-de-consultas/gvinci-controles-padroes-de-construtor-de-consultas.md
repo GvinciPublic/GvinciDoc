@@ -1,4 +1,4 @@
-# Gvinci : Controles padrões de Construtor de Consultas
+# Controles padrões de Construtor de Consultas
 
 Os controles padrões que podem ser inseridos em um **Construtor de Consultas** são os seguintes:
 

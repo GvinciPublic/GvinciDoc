@@ -1,4 +1,4 @@
-# Gvinci : Apparence-Hover
+# Apparence-Hover
 
 **HoverBackColor / Cor de Fundo \(Apontar\):** Altera a cor da borda do controle quando o ponteiro do mouse parar sobre o controle em tempo de execução.
 

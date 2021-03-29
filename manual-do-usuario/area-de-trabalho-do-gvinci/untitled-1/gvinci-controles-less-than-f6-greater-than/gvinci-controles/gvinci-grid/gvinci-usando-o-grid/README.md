@@ -1,4 +1,4 @@
-# Gvinci : Usando o Grid
+# Usando o Grid
 
 Grid é uma tabela dinâmica onde os dados são exibidos em colunas e linhas e seu conteúdo pode ser editado. Cada linha do Grid corresponde a um registro da tabela definida na propriedade Table do Grid.
 

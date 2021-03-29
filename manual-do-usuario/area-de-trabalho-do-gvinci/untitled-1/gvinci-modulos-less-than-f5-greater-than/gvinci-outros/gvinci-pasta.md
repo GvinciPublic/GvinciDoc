@@ -1,4 +1,4 @@
-# Gvinci : Pasta
+# Pasta
 
 Insere uma pasta na estrutura da solução. Dentro desta pasta, é possível inserir outros módulos.
 

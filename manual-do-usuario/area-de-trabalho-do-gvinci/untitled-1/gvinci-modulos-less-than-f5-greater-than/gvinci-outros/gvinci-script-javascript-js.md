@@ -1,4 +1,4 @@
-# Gvinci : Script JavaScript \(js\)
+# Script JavaScript \(js\)
 
 Insere scripts em JavaScript.
 

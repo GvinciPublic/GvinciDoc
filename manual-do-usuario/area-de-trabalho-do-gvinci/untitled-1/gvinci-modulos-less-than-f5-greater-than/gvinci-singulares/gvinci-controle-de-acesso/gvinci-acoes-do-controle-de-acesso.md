@@ -1,4 +1,4 @@
-# Gvinci : Ações do Controle de Acesso
+# Ações do Controle de Acesso
 
 As ações para o módulo **Filtro** estão disponíveis no painel **Controles**.
 

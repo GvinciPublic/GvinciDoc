@@ -1,4 +1,4 @@
-# Gvinci : Eventos do TextBox
+# Eventos do TextBox
 
 Os eventos do controle **TextBox** são os seguintes:
 

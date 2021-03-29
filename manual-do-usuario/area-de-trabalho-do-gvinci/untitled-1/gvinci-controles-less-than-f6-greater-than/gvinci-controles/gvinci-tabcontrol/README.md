@@ -1,4 +1,4 @@
-# Gvinci : TabControl
+# TabControl
 
 Insere um controle **Tab** com abas.![Controle TabControl utilizado na p&#xE1;gina Construtor de consultas, no exemplo Controle de Estoque](http://www.gvinci.com.br/manual/tabcontrolgv5.zoom60.png)
 

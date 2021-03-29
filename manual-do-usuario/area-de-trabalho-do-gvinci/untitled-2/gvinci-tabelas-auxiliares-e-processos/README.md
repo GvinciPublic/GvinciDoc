@@ -1,4 +1,4 @@
-# Gvinci : Tabelas auxiliares e Processos
+# Tabelas auxiliares e Processos
 
 Você pode definir as tabelas auxiliares que serão necessárias ao projeto. Desta forma, as tabelas auxiliares poderão ser consultadas e processadas e ainda servirem de alvo de lançamentos a partir da digitação de informações na tabela básica definida nas **propriedades da Página de Dados.**  
 

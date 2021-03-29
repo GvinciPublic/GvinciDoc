@@ -1,4 +1,4 @@
-# Gvinci : Propriedades das Colunas do Grid
+# Propriedades das Colunas do Grid
 
 As **Colunas** do controle **Grid** apresenta as propriedades conforme imagens abaixo:  
 ![](http://www.gvinci.com.br/manual/gridcolumn_1.zoom80.png)   ![](http://www.gvinci.com.br/manual/gridcolumn_2.zoom80.png)  

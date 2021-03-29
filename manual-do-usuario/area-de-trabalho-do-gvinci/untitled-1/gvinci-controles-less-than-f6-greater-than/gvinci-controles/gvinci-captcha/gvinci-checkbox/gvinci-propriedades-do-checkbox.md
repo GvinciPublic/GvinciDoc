@@ -1,4 +1,4 @@
-# Gvinci : Propriedades do CheckBox
+# Propriedades do CheckBox
 
 O controle **CheckBox** apresenta as propriedades conforme imagens abaixo:
 

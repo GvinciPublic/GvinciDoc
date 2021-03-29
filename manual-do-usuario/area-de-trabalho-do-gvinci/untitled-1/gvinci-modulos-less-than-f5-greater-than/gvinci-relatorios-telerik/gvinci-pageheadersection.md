@@ -1,4 +1,4 @@
-# Gvinci : PageHeaderSection
+# PageHeaderSection
 
 Esta é a área superior do relatório. É utilizada como cabeçalho da página.
 

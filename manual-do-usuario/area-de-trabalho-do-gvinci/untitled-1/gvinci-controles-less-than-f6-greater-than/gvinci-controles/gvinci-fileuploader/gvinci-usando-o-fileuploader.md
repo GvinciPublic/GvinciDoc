@@ -1,4 +1,4 @@
-# Gvinci : Usando o FileUploader
+# Usando o FileUploader
 
 O controle **FileUploader** é utilizado para fazer download e upload de arquivos.
 

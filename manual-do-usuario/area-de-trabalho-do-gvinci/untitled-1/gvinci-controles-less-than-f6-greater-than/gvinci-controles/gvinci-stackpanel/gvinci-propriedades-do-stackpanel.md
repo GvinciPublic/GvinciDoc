@@ -1,4 +1,4 @@
-# Gvinci : Propriedades do StackPanel
+# Propriedades do StackPanel
 
 As propriedades do controle **StackPanel** são as seguintes:
 

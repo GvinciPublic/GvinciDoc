@@ -1,4 +1,4 @@
-# Gvinci : Propriedades do TabControl
+# Propriedades do TabControl
 
 As propriedades do controle **TabControl** são as seguintes:
 

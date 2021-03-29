@@ -1,4 +1,4 @@
-# Gvinci : Eventos do WindowSettings
+# Eventos do WindowSettings
 
 Os eventos do controle **WindowSettings** são os seguintes:
 

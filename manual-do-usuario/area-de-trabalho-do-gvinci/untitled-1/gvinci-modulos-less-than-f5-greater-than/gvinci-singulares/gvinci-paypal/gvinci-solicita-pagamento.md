@@ -1,4 +1,4 @@
-# Gvinci : Solicita pagamento
+# Solicita pagamento
 
 ![](http://www.gvinci.com.br/manual/solicitapagamento.png)
 

@@ -1,4 +1,4 @@
-# Gvinci : Propriedades do Map
+# Propriedades do Map
 
 As propriedades do controle **Map** são as seguintes:
 

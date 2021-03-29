@@ -1,4 +1,4 @@
-# Gvinci : E-mail
+# E-mail
 
 O módulo de **E-mail** está disponível no painel Módulos:
 

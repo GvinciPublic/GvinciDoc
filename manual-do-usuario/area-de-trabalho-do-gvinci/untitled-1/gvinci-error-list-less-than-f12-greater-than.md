@@ -1,4 +1,4 @@
-# Gvinci : Error List &lt;F12&gt;
+# Error List &lt;F12&gt;
 
 A Error List pode ser exibida através da opção Error List no menu Exibir ou através do atalho **&lt;F12&gt;.**
 

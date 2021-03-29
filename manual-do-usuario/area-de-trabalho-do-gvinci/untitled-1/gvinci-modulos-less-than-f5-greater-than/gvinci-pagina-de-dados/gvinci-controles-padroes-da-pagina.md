@@ -1,4 +1,4 @@
-# Gvinci : Controles padrões da página
+# Controles padrões da página
 
 Os controles padrões da página **ASPX** podem ser usados em uma página principal, inicial, tela de apresentação, páginas de Login, por exemplo.
 

@@ -1,4 +1,4 @@
-# Gvinci : Tipos de gráficos
+# Tipos de gráficos
 
 Observe os modelos de gráficos disponibilizados na propriedade **StartType:**
 

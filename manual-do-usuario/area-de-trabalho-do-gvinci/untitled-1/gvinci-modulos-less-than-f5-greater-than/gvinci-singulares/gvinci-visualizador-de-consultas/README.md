@@ -1,4 +1,4 @@
-# Gvinci : Visualizador de consultas
+# Visualizador de consultas
 
 Insere um módulo que será usado para visualizar as consultas já criadas. A figura abaixo destaca este tipo de módulo.
 

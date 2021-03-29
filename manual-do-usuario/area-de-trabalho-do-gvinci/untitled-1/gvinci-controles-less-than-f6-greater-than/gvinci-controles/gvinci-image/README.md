@@ -1,4 +1,4 @@
-# Gvinci : Image
+# Image
 
 O controle **Image** insere uma figura no design.
 

@@ -1,4 +1,4 @@
-# Gvinci : Propriedades do Shape
+# Propriedades do Shape
 
 As propriedades do controle Shape são as seguintes:
 

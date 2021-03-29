@@ -1,4 +1,4 @@
-# Gvinci : Ticker
+# Ticker
 
 O controle Ticker insere um letreiro passando mensagens gravadas no banco de dados.
 

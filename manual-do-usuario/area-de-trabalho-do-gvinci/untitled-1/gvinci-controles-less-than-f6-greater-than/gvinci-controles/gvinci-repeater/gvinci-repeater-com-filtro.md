@@ -1,4 +1,4 @@
-# Gvinci : Repeater com Filtro
+# Repeater com Filtro
 
 Para inserir um filtro a um controle **Repeater**, podemos utilizar um **TextBox** para pesquisar os dados que desejamos. O valor da propriedade Alias deste **Textbox** será **"PesquisaValor"**.
 

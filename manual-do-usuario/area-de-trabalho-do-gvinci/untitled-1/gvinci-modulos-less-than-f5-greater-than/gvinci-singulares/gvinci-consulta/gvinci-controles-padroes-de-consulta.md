@@ -1,4 +1,4 @@
-# Gvinci : Controles padrões de Consulta
+# Controles padrões de Consulta
 
 Os controles padrões que podem ser inseridos em uma **Consulta** são os seguintes:
 

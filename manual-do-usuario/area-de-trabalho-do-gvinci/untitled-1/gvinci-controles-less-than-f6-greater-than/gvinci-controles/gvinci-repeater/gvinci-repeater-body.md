@@ -1,4 +1,4 @@
-# Gvinci : Repeater - Body
+# Repeater - Body
 
 É nesta área do **Repeater** onde ficarão todos os controles que irão repetir a exibição dos dados dos campos da tabela e do banco especificados nas propriedades **DataBase** e **Table**.
 

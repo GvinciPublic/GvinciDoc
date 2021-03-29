@@ -1,4 +1,4 @@
-# Gvinci : Propriedades do RadioButton
+# Propriedades do RadioButton
 
 As propriedades do controle **RadioButton** são as seguintes:
 

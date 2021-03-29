@@ -1,4 +1,4 @@
-# Gvinci : Lançamentos
+# Lançamentos
 
 Os lançamentos são utilizados em tabelas estrangeiras a partir da digitação de informações em outras tabelas, inclusive com o estabelecimento de condições para que lançamentos sejam criados \(neste caso, sob a condição do registro não existir na tabela\).
 

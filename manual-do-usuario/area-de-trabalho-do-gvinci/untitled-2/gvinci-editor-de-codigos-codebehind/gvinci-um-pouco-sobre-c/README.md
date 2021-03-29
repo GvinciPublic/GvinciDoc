@@ -1,4 +1,4 @@
-# Gvinci : Um pouco sobre C\#
+# Um pouco sobre C\#
 
 Neste tópico apresentamos noções gerais de programação, bem como conhecimentos básicos da linguagem **C\#.** Por ser ambiente novo, comparado ao Desktop, o ambiente Web por vezes traz termos novos e típicos de componentes específicos. Será sempre de bom alvitre adquirir mais conhecimento a respeito da linguagem ou de seus auxiliares, tais como Ajax, JavaScript, ASPX, CSS, HTML, etc.
 

@@ -1,4 +1,4 @@
-# Gvinci : Controles padrões de Controle de Acesso
+# Controles padrões de Controle de Acesso
 
 Os controles padrões que podem ser inseridos em um **Controle de acesso** são os seguintes:
 

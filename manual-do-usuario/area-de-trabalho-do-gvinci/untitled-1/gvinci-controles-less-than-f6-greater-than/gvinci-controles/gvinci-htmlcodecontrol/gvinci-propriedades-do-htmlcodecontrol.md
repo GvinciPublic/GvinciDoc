@@ -1,4 +1,4 @@
-# Gvinci : Propriedades do HtmlCodeControl
+# Propriedades do HtmlCodeControl
 
 O controle **HtmlCodeControl** apresenta as propriedades conforme imagens abaixo:
 

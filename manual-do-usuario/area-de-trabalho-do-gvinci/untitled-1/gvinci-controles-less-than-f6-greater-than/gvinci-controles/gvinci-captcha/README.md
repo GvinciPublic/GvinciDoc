@@ -1,4 +1,4 @@
-# Gvinci : Captcha
+# Captcha
 
 O controle **Captcha** é usado para evitar que programas automatizados obtenham acesso a páginas restritas.
 

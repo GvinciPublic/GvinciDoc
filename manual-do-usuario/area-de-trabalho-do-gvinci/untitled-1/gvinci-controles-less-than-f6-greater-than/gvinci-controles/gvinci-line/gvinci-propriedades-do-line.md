@@ -1,4 +1,4 @@
-# Gvinci : Propriedades do Line
+# Propriedades do Line
 
 As propriedades do controle Line são as seguintes:
 

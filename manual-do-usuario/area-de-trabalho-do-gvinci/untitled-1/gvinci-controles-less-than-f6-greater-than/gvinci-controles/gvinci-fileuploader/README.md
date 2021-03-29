@@ -1,4 +1,4 @@
-# Gvinci : FileUploader
+# FileUploader
 
 Insere um controle do tipo **FileUploader** para efetuar upload e download de arquivos.![Controle FileUploader utilizado na p&#xE1;gina Produtos do exemplo Controle de estoque](http://www.gvinci.com.br/manual/fileup1gv5.zoom80.png)                           ****Controle **FileUploader** utilizado na página Produtos do exemplo Controle de estoque
 

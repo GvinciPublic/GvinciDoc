@@ -1,4 +1,4 @@
-# Gvinci : Adicionando um controle customizado
+# Adicionando um controle customizado
 
 Para criar um controle customizado, vamos seguir as seguintes instruções:
 

@@ -1,4 +1,4 @@
-# Gvinci : Propriedades do Panel
+# Propriedades do Panel
 
 As propriedades do controle **Panel** são as seguintes:
 

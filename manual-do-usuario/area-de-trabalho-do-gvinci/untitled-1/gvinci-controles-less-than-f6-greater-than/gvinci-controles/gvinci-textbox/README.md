@@ -1,4 +1,4 @@
-# Gvinci : Textbox
+# Textbox
 
 Insere uma **caixa de texto** no design.
 

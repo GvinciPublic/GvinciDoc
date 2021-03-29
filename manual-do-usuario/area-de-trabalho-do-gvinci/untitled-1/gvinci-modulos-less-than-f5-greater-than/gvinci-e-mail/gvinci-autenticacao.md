@@ -1,4 +1,4 @@
-# Gvinci : Autenticação
+# Autenticação
 
 As propriedades abaixo são usadas para definir a autenticação. As mensagens autenticadas oferecem mais segurança para o destinatário pois permitem que sejam criptografadas, ao habilitar o uso de **SSL**. Observe as definições a seguir.![Defini&#xE7;&#xF5;es de Autentica&#xE7;&#xE3;o de Email - Exemplo Site Institucional](http://www.gvinci.com.br/manual/autenemailgv5.png)**Definições de Autenticação de Email - Exemplo Site Institucional**
 

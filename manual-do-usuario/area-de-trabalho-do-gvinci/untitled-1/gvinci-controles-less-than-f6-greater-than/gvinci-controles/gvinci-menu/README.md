@@ -1,4 +1,4 @@
-# Gvinci : Menu
+# Menu
 
 Permite inserir uma Barra de Menus no design.
 

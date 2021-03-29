@@ -1,4 +1,4 @@
-# Gvinci : Template Manager &lt;F10&gt;
+# Template Manager &lt;F10&gt;
 
 Os Templates são modelos de telas \(design\) que são definidos e gravados para serem utilizados em outras aplicações.
 

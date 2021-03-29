@@ -1,4 +1,4 @@
-# Gvinci : Repeater
+# Repeater
 
 Insere um controle **Repeater,** usado para listar a exibição de itens vinculados.
 

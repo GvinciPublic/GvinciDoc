@@ -1,4 +1,4 @@
-# Gvinci : HtmlCodeControl
+# HtmlCodeControl
 
 Permite inserir um controle no design para adicionar código em **HTML.**
 

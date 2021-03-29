@@ -1,4 +1,4 @@
-# Gvinci : Cancelamento Paypal
+# Cancelamento Paypal
 
 ![](http://www.gvinci.com.br/manual/cancelamento.png)
 

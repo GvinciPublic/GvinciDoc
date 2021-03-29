@@ -1,4 +1,4 @@
-# Gvinci : Recortar Linhas Selecionadas
+# Recortar Linhas Selecionadas
 
 ![](http://www.gvinci.com.br/manual/recortgv5.png) Envia para a área de transferência textos do **Editor de Códigos** e controles do design.
 

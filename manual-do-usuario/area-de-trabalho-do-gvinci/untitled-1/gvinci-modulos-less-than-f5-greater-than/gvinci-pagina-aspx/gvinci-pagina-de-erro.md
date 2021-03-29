@@ -1,4 +1,4 @@
-# Gvinci : Página de erro
+# Página de erro
 
 Um módulo usado como Página de erro poderá ser usado para exibir as mensagens de erro de forma padronizada, em qualquer situação de erro durante a execução da aplicação. O **Gvinci** oferece um template padrão para página de erro, que pode ser alterado conforme você desejar.
 

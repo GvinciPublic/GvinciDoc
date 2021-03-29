@@ -1,4 +1,4 @@
-# Gvinci : Controles
+# Controles
 
 Os controles são objetos tais como: caixas de texto, botões de comando, formulários, **Grids, ComboBox, Checkbox** e vários outros que podem ser inseridos no design.
 

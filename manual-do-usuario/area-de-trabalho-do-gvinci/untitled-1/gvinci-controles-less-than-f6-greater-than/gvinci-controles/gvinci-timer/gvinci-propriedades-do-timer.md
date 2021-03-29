@@ -1,4 +1,4 @@
-# Gvinci : Propriedades do Timer
+# Propriedades do Timer
 
 As propriedades do controle Timer são as seguintes:
 

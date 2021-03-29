@@ -1,4 +1,4 @@
-# Gvinci : CSS
+# CSS
 
 **C**ascading **S**tyle **S**heet \(Folhas de estilo\) é uma forma de aplicar efeitos na aparência de um controle. Através de códigos **CSS** podemos alterar as cores do fundo, as bordas do controle, a espessura da borda, colocar cantos arredondados no controle, etc.
 

@@ -1,4 +1,4 @@
-# Gvinci : Atualizar banco de imagens
+# Atualizar banco de imagens
 
 São muitas as imagens que você pode aproveitar para utilizar imediatamente em seu projeto. **Na Galeria de Imagens**, as imagens de sistema já se encontram prontas para serem inseridas no design.
 

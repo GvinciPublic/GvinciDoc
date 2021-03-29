@@ -1,4 +1,4 @@
-# Gvinci : Inserindo itens no ComboBox
+# Inserindo itens no ComboBox
 
 Neste tópico veremos como adicionar um item à lista do **ComboBox.** Vamos seguir as seguintes instruções:
 

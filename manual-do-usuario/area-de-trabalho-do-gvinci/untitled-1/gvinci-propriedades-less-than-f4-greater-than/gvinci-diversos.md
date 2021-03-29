@@ -1,4 +1,4 @@
-# Gvinci : Diversos
+# Diversos
 
 **AutoPostBack:** Ativa e desativa o modo automático de PostBack, que é o processo de envio de informações através de controles da página atual para ela mesma, a fim de que essas informações possam ser processadas pela própria página.
 

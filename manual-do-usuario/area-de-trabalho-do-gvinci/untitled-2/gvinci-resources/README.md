@@ -1,4 +1,4 @@
-# Gvinci : Resources
+# Resources
 
 A opção Idioma, nas propriedades da solução, permite inserir vocabulário nos idiomas definidos. Para alterar os idiomas dos resources, utilize a opção "Idiomas" nas propriedades da solução:
 

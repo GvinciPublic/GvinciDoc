@@ -1,4 +1,4 @@
-# Gvinci : Propriedades do UserControl
+# Propriedades do UserControl
 
 As propriedades do controle **UserControl** são as seguintes:
 

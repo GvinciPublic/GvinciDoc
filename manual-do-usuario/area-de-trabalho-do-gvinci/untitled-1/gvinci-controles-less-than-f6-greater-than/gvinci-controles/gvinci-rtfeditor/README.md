@@ -1,4 +1,4 @@
-# Gvinci : RTFEditor
+# RTFEditor
 
 Insere um **Editor RTF** que lhe proporciona a digitação de textos com opção de formatação:
 

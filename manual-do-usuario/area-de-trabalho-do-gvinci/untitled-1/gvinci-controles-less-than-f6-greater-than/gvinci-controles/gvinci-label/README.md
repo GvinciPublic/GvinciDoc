@@ -1,4 +1,4 @@
-# Gvinci : Label
+# Label
 
 Um **Label** é um rótulo, geralmente utilizado para dar nomes a outros controles, tais como caixas de texto, no design.
 

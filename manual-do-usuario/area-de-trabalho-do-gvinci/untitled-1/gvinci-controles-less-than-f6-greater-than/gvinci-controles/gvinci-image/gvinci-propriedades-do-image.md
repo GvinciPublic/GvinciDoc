@@ -1,4 +1,4 @@
-# Gvinci : Propriedades do Image
+# Propriedades do Image
 
 O controle **Image** apresenta as propriedades conforme imagens abaixo:
 

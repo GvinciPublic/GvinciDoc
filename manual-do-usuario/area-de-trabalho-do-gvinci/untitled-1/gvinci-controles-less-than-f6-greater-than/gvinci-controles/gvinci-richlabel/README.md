@@ -1,4 +1,4 @@
-# Gvinci : RichLabel
+# RichLabel
 
 Permite inserir um **Label** cujo conteúdo pode ser inserido usando o **Rich** Editor, através da propriedade **Text.**
 

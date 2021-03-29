@@ -1,4 +1,4 @@
-# Gvinci : Usando o WindowSettings
+# Usando o WindowSettings
 
 O controle **WindowSettings** é utilizado para armazenar em seu interior o controle Window.
 

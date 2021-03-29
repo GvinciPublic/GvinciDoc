@@ -1,4 +1,4 @@
-# Gvinci : Propriedades do FileUploader
+# Propriedades do FileUploader
 
 O controle **FileUploader** apresenta as propriedades conforme imagens abaixo:
 

@@ -1,4 +1,4 @@
-# Gvinci : Delegates
+# Delegates
 
 **Delegate** \(representante\) é uma classe especial que funciona como ponteiro para funções. Ao criarmos uma instância de um delegate, passamos ao construtor o nome da função que desejamos referenciar.
 

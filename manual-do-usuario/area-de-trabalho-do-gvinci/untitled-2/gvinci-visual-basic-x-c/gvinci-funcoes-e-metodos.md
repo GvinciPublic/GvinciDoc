@@ -1,4 +1,4 @@
-# Gvinci : Funções e Métodos
+# Funções e Métodos
 
 Os métodos em **C\#** correspondem às funções em **Visual Basic.**
 

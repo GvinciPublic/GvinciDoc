@@ -1,4 +1,4 @@
-# Gvinci : Propriedades do Gantt
+# Propriedades do Gantt
 
 O controle **Gantt** apresenta as propriedades conforme imagens abaixo:
 

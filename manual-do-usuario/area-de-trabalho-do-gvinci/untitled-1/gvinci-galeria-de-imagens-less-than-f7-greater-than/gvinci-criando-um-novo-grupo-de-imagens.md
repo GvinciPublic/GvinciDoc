@@ -1,4 +1,4 @@
-# Gvinci : Criando um novo grupo de imagens
+# Criando um novo grupo de imagens
 
 Um grupo de imagens é também uma pasta onde estão agrupadas todas as imagens de uma determinada categoria.
 

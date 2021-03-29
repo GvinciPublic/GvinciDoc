@@ -1,4 +1,4 @@
-# Gvinci : Scheduler
+# Scheduler
 
 É utilizado para inserir um controle de agenda no Design.![Controle Schedule usado na p&#xE1;gina Agenda do exemplo Helpdesk](http://www.gvinci.com.br/manual/schedule2gv5.zoom60.png)
 

@@ -1,4 +1,4 @@
-# Gvinci : Usando o RTF Editor
+# Usando o RTF Editor
 
 O controle **RTFEditor** é utilizado para inserir um editor que aceita formato Rich Text - RT - contendo uma série de ferramentas compatíveis com editores como o Microsoft Office Word.
 

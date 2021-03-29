@@ -1,4 +1,4 @@
-# Gvinci : Media Player
+# Media Player
 
 Insere um controle Media Player no design, destinado a executar vídeos do Youtube.
 

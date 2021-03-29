@@ -1,4 +1,4 @@
-# Gvinci : Orientada a objetos
+# Orientada a objetos
 
 Numa linguagem orientada a objetos, dados e operações fazem parte do controle e por isso são tratados pela linguagem como um só elemento.  
   

@@ -1,4 +1,4 @@
-# Gvinci : Pager
+# Pager
 
 É um pequeno painel exibindo os números de páginas que podem ser exibidas.
 

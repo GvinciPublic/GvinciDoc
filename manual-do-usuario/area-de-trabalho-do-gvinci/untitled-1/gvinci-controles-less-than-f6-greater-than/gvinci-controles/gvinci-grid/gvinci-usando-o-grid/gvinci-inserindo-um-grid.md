@@ -1,4 +1,4 @@
-# Gvinci : Inserindo um Grid
+# Inserindo um Grid
 
 Para inserir um Grid, siga os seguintes passos:
 

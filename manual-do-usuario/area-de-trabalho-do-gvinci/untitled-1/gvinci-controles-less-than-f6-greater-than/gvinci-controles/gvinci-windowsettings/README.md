@@ -1,4 +1,4 @@
-# Gvinci : WindowSettings
+# WindowSettings
 
 Insere um controle **WindowSettings no design** para receber um controle Window em seu interior.
 

@@ -1,4 +1,4 @@
-# Gvinci : Controles padrões de informações do banco de dados
+# Controles padrões de informações do banco de dados
 
 Os controles padrões que podem ser inseridos em um módulo de **Informações do Banco de dados** são os seguintes:
 

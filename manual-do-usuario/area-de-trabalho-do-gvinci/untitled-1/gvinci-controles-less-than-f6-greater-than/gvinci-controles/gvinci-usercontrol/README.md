@@ -1,4 +1,4 @@
-# Gvinci : UserControl
+# UserControl
 
 Insere um controle do tipo **UserControl** no design.
 

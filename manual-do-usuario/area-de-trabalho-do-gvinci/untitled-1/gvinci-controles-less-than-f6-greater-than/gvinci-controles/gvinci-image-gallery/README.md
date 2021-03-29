@@ -1,4 +1,4 @@
-# Gvinci : Image Gallery
+# Image Gallery
 
 O controle **Image Gallery** insere uma galeria de imagens:
 

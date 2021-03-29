@@ -1,4 +1,4 @@
-# Gvinci : Propriedades do DataList
+# Propriedades do DataList
 
 O controle **DataList** apresenta as propriedades conforme imagens abaixo:
 

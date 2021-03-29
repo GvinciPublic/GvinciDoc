@@ -1,4 +1,4 @@
-# Gvinci : Alterando a imagem
+# Alterando a imagem
 
 Para substituir uma imagem da **Galeria de Imagens**, siga os passos seguintes:
 

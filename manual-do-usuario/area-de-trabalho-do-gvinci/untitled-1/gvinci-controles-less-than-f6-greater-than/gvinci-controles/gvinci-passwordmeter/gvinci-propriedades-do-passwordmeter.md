@@ -1,4 +1,4 @@
-# Gvinci : Propriedades do PasswordMeter
+# Propriedades do PasswordMeter
 
 As propriedades do controle **PasswordMeter** são as seguintes:
 

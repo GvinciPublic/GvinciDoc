@@ -1,4 +1,4 @@
-# Gvinci : Propriedades do Form
+# Propriedades do Form
 
 O controle **Form** apresenta as propriedades conforme imagens abaixo:
 

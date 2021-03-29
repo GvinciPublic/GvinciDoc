@@ -1,4 +1,4 @@
-# Gvinci : Propriedades do Media Player
+# Propriedades do Media Player
 
 As propriedades do controle **Media Player** são as seguintes:
 

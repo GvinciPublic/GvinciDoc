@@ -1,4 +1,4 @@
-# Gvinci : TreeView
+# TreeView
 
 Insere um controle **TreeView** no design. Este controle serve para inserir uma Árvore de opções.
 

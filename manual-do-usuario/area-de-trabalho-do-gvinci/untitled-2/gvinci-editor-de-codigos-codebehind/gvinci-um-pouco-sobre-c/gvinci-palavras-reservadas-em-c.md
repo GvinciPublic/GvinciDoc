@@ -1,4 +1,4 @@
-# Gvinci : Palavras reservadas em C\#
+# Palavras reservadas em C\#
 
 A lista abaixo contém as palavras reservadas na linguagem C\#. Quando inseridas no Editor de Códigos do **Gvinci,** são de cor azul.
 

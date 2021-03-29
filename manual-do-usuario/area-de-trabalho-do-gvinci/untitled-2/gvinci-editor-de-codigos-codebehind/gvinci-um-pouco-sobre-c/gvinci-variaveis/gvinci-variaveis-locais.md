@@ -1,4 +1,4 @@
-# Gvinci : Variáveis Locais
+# Variáveis Locais
 
 Variáveis locais são aquelas declaradas dentro de uma função.
 

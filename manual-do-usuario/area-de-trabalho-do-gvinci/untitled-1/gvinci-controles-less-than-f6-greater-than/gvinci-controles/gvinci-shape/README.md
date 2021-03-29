@@ -1,4 +1,4 @@
-# Gvinci : Shape
+# Shape
 
 Permite inserir um objeto gráfico que pode ter 3 formas, definidas na propriedade **Type:**  
 **• Circle**  

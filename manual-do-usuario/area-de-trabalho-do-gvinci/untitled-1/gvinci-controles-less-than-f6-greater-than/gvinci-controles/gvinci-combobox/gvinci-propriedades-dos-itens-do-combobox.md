@@ -1,4 +1,4 @@
-# Gvinci : Propriedades dos Itens do ComboBox
+# Propriedades dos Itens do ComboBox
 
 As propriedades dos **itens do ComboBox** estão disponíveis para os itens que são inseridos no Combo manualmente, através da janela "Itens de ComboBox" que é exibida quando se clica no botão ![](http://www.gvinci.com.br/manual/extensor-botao.png) da propriedade Items do controle ComboBox.
 

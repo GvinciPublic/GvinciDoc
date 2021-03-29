@@ -1,4 +1,4 @@
-# Gvinci : Ferramentas do RTFEditor
+# Ferramentas do RTFEditor
 
 ![](http://www.gvinci.com.br/manual/tools-rtf.png)
 

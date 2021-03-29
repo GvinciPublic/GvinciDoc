@@ -1,4 +1,4 @@
-# Gvinci : Paragraph
+# Paragraph
 
 A seção Paragraph da barra de ferramentas do Rich Editor oferece os seguintes botões:
 

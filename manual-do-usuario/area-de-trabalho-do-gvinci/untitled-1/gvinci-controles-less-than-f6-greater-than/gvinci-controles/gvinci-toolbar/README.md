@@ -1,4 +1,4 @@
-# Gvinci : ToolBar
+# ToolBar
 
 Insere uma barra de ferramentas no design.
 

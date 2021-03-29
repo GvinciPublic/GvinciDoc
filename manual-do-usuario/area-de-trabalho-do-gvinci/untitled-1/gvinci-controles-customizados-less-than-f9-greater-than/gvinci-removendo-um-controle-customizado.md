@@ -1,4 +1,4 @@
-# Gvinci : Removendo um controle customizado
+# Removendo um controle customizado
 
 Remo
 

@@ -1,4 +1,4 @@
-# Gvinci : Variáveis de ambiente personalizadas
+# Variáveis de ambiente personalizadas
 
 O **Gvinci** permite que você crie suas próprias variáveis, definindo para elas um nome e um valor.
 

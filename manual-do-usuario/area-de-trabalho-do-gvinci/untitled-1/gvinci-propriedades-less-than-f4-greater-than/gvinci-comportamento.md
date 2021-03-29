@@ -1,4 +1,4 @@
-# Gvinci : Comportamento
+# Comportamento
 
 **AcceptBlankText / Texto em Branco:** Ao ativar esta propriedade \(True\), você permitirá que o controle fique sem exibir nenhum item.
 

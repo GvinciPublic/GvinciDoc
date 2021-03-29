@@ -1,4 +1,4 @@
-# Gvinci : Propriedades do Button
+# Propriedades do Button
 
 O controle **Button** apresenta as propriedades conforme imagens abaixo:
 

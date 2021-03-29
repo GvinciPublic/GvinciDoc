@@ -1,4 +1,4 @@
-# Gvinci : Inserindo tabelas auxiliares
+# Inserindo tabelas auxiliares
 
 Ao utilizarmos um controle **Grid**, por exemplo, podemos precisar de tabelas auxiliares que irão fornecer os dados que serão usados durante o processamento.
 

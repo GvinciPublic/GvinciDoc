@@ -1,4 +1,4 @@
-# Gvinci : Aplicando folhas de estilo
+# Aplicando folhas de estilo
 
 Para aplicar uma folha de estilo a uma página, siga os passos abaixo:
 

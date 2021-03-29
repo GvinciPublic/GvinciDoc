@@ -1,4 +1,4 @@
-# Gvinci : Backup de Templates
+# Backup de Templates
 
 Para fazer backup \(cópia de segurança\) dos templates no Gvinci, você deve primeiramente copiar os bancos de dados que começam com "Gvinci". Podemos visualizar esses bancos de dados através do SQL Server Management Studio.
 

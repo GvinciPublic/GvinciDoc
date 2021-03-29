@@ -1,4 +1,4 @@
-# Gvinci : Gerenciador de Estilos &lt;F11&gt;
+# Gerenciador de Estilos &lt;F11&gt;
 
 O painel Gerenciador de Estilos permite visualizar as combinações de cores aplicadas nos controles gerais para acompanhar os **templates da Telerik®.**
 

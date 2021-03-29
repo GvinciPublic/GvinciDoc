@@ -1,4 +1,4 @@
-# Gvinci : Combo no Grid
+# Combo no Grid
 
 O Grid permite que você possa utilizar uma coluna como Combo, ou seja, que os itens exibidos na coluna sejam uma lista de itens e que podem pertencer a uma tabela que não seja a tabela básica da página de dados onde o Grid se encontra.
 

@@ -1,4 +1,4 @@
-# Gvinci : Propriedades &lt;F4&gt;
+# Propriedades &lt;F4&gt;
 
 Os controles apresentam diversas propriedades que são divididas em grupos, apresentamos os mais comuns:  
   

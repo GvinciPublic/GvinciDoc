@@ -1,4 +1,4 @@
-# Gvinci : Propriedades do ListBox
+# Propriedades do ListBox
 
 O controle **ListBox** apresenta as propriedades conforme imagens abaixo:
 

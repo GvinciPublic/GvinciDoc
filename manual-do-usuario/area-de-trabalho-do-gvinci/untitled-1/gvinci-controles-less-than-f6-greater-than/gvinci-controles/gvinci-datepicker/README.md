@@ -1,4 +1,4 @@
-# Gvinci : DatePicker
+# DatePicker
 
 Insere um controle com ícone de calendário para que o usuário possa escolher a data.
 

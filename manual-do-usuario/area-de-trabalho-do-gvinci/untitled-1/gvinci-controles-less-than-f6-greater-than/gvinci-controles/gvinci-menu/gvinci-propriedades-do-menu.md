@@ -1,4 +1,4 @@
-# Gvinci : Propriedades do Menu
+# Propriedades do Menu
 
 As propriedades do controle **Menu** são as seguintes:
 

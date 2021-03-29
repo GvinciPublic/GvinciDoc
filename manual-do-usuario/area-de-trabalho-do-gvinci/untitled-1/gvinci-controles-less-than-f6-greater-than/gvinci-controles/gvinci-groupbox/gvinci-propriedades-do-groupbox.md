@@ -1,4 +1,4 @@
-# Gvinci : Propriedades do GroupBox
+# Propriedades do GroupBox
 
 O controle **GroupBox** apresenta as propriedades conforme imagens abaixo:
 

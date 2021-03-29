@@ -1,4 +1,4 @@
-# Gvinci : Propriedades do Grid
+# Propriedades do Grid
 
 O controle **Grid** apresenta as propriedades conforme imagens abaixo:
 

@@ -1,4 +1,4 @@
-# Gvinci : Classe C\#
+# Classe C\#
 
 Permite criar uma classe em **CSharp.**
 

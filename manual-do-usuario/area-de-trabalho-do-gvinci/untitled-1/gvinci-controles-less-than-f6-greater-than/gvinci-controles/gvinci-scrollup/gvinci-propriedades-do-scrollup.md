@@ -1,4 +1,4 @@
-# Gvinci : Propriedades do ScrollUp
+# Propriedades do ScrollUp
 
 As propriedades do controle **ScrollUp** são as seguintes:
 

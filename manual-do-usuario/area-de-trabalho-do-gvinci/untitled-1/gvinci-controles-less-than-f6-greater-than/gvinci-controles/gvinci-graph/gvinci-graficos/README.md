@@ -1,4 +1,4 @@
-# Gvinci : Gráficos
+# Gráficos
 
 O objeto **Graph** permite visualizar em gráficos os dados de uma tabela.
 

@@ -1,4 +1,4 @@
-# Gvinci : Propriedades do RichLabel
+# Propriedades do RichLabel
 
 As propriedades do controle **RichLabel** são as seguintes:
 

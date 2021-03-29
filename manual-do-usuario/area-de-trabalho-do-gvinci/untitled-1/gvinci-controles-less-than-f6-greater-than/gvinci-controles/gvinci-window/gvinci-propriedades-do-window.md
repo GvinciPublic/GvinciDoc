@@ -1,4 +1,4 @@
-# Gvinci : Propriedades do Window
+# Propriedades do Window
 
 As propriedades do controle **Window** são as seguintes:
 

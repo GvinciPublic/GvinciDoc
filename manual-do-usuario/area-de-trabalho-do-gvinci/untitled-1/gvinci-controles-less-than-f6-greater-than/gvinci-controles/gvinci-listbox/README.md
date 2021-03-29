@@ -1,4 +1,4 @@
-# Gvinci : ListBox
+# ListBox
 
 O controle **ListBox** é utilizado para exibir uma lista de itens. Os itens podem ser cadastrados na propriedade Items.
 

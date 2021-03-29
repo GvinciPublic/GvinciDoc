@@ -1,4 +1,4 @@
-# Gvinci : Timer
+# Timer
 
 Insere um controle do tipo **Timer no design**. Pode ser utilizado para determinar o tempo de exibição de uma página, antes que a próxima página seja exibida.
 

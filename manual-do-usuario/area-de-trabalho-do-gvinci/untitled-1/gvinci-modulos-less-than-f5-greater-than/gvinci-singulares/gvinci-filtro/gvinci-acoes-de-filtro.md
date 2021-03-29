@@ -1,4 +1,4 @@
-# Gvinci : Ações de Filtro
+# Ações de Filtro
 
 As ações para o módulo **Filtro** estão disponíveis no painel **Controles**.
 

@@ -1,4 +1,4 @@
-# Gvinci : Propriedades do TextBox
+# Propriedades do TextBox
 
 As propriedades do controle **TextBox** são as seguintes:
 

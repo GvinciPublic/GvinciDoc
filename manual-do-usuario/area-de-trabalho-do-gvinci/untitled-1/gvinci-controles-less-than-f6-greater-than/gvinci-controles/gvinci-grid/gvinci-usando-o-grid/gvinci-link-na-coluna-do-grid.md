@@ -1,4 +1,4 @@
-# Gvinci : Link na coluna do Grid
+# Link na coluna do Grid
 
 Ao utilizar um Grid, o **Gvinci** permite que você acesse uma página de outra tabela através de uma coluna específica.
 

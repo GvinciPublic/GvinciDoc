@@ -1,4 +1,4 @@
-# Gvinci : Transição
+# Transição
 
 **Animation:** Permite definir o tipo de animação para a exibição.
 

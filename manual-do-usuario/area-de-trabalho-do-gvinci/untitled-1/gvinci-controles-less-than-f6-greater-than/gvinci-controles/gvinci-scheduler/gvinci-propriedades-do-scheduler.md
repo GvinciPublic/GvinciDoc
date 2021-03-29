@@ -1,4 +1,4 @@
-# Gvinci : Propriedades do Scheduler
+# Propriedades do Scheduler
 
 As propriedades do controle Scheduler são as seguintes:
 

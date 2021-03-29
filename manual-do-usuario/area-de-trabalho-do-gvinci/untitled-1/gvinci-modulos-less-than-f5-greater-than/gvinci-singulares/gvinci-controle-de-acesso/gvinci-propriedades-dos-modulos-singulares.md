@@ -1,4 +1,4 @@
-# Gvinci : Propriedades dos Módulos Singulares
+# Propriedades dos Módulos Singulares
 
 As propriedades dos Módulos Singulares são as seguintes:
 

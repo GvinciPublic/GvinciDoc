@@ -1,4 +1,4 @@
-# Gvinci : ScrollUp
+# ScrollUp
 
 Permite inserir uma opção que irá rolar a tela para o topo, no canto inferior direito da página.
 

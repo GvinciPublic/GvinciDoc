@@ -1,4 +1,4 @@
-# Gvinci : Evento do RadioButton
+# Evento do RadioButton
 
 O controle **RadioButton** possui o seguinte evento:
 

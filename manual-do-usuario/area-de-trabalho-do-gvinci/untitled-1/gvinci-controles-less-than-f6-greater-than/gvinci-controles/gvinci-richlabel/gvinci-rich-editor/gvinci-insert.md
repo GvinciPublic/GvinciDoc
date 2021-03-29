@@ -1,4 +1,4 @@
-# Gvinci : Insert
+# Insert
 
 ![](http://www.gvinci.com.br/manual/rlinsert0911.png)
 

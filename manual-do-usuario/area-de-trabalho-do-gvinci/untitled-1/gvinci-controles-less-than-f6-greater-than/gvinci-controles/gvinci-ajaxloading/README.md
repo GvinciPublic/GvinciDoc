@@ -1,4 +1,4 @@
-# Gvinci : AjaxLoading
+# AjaxLoading
 
 **Insere um controle AjaxLoading no design. Este controle é utilizado para exibir o progresso de carregar uma página.**![Controle AjaxLoading usado na p&#xE1;gina Contato do exemplo Site Institucional](http://www.gvinci.com.br/manual/ajaxxloadinggv5.zoom80.png)**Controle AjaxLoading usado na página Contato do exemplo Site Institucional**
 

@@ -1,4 +1,4 @@
-# Gvinci : Usando Map com parâmetros
+# Usando Map com parâmetros
 
 O controle **Map** pode ter suas propriedades preenchidas através do uso de variáveis, parâmetros, alias ou campos, através do botão extensor de cada propriedade, utilizando a janela Fórmula.
 

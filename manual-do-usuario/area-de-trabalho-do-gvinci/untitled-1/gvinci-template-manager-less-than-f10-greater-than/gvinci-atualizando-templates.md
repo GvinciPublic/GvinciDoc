@@ -1,4 +1,4 @@
-# Gvinci : Atualizando templates
+# Atualizando templates
 
 Os módulos padrões que são inseridos automaticamente quando a solução é criada, possuem modelos prontos, já com os controles mais comuns configurados para uso imediato.
 

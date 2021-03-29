@@ -1,4 +1,4 @@
-# Gvinci : Propriedades do Ticker
+# Propriedades do Ticker
 
 As propriedades do controle Timer são as seguintes:
 

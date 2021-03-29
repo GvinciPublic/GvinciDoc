@@ -1,4 +1,4 @@
-# Gvinci : Definição
+# Definição
 
 As propriedades abaixo devem ser preenchidas para definirem o módulo de e-mail.
 

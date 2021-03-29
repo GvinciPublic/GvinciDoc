@@ -1,4 +1,4 @@
-# Gvinci : Consulta
+# Consulta
 
 Os controles padrões que podem ser inseridos em um **Visualizador de Consultas** são os seguintes:
 

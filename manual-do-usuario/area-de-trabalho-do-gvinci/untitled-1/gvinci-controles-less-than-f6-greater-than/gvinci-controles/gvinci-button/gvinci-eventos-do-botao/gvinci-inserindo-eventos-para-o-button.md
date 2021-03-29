@@ -1,4 +1,4 @@
-# Gvinci : Inserindo eventos para o Button
+# Inserindo eventos para o Button
 
 Para inserir um evento no controle **Button**, siga os seguintes passos:
 

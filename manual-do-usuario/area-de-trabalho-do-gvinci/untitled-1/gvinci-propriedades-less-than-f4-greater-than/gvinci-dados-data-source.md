@@ -1,4 +1,4 @@
-# Gvinci : Dados / Data Source
+# Dados / Data Source
 
 **AuxiliarTables / Tabelas Auxiliares:** Permite inserir as tabelas auxiliares que também irão fornecer os dados para serem exibidos no controle, além da tabela básica definida na propriedade Table.
 

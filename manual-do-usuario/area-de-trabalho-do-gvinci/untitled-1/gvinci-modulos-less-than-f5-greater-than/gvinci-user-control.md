@@ -1,4 +1,4 @@
-# Gvinci : User Control
+# User Control
 
 É utilizado para inserir um controle personalizado que poderá ser inserido em outras telas posteriormente.
 

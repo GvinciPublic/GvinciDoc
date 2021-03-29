@@ -1,4 +1,4 @@
-# Gvinci : Ações da Configuração de banco de dados
+# Ações da Configuração de banco de dados
 
 As ações para o módulo **Configuração de banco de dados** estão disponíveis no painel **Controles**.
 

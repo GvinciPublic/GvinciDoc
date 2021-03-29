@@ -1,4 +1,4 @@
-# Gvinci : Propriedades do Rating
+# Propriedades do Rating
 
 As propriedades do controle **Rating** são as seguintes:
 

@@ -1,4 +1,4 @@
-# Gvinci : Propriedades do Div - LoginTab
+# Propriedades do Div - LoginTab
 
 O controle **LoginTab** é composto por duas guias e dois controles Div.
 

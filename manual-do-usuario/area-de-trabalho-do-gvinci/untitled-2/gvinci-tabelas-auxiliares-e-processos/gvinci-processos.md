@@ -1,4 +1,4 @@
-# Gvinci : Processos
+# Processos
 
 A definição de processos é semelhante à definição de lançamentos, explicada no item anterior. A principal diferença é que, no lançamento, um registro novo é criado na tabela alvo e seus campos são modificados. Já no processamento, um registro deve ser localizado e posicionado na tabela alvo para que um ou mais campos sejam modificados.
 

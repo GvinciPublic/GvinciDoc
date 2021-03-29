@@ -1,4 +1,4 @@
-# Gvinci : Link
+# Link
 
 Insere um controle **Link**, que poderá ser usado para conexão a uma página Web, através da inserção de um evento específico.           ![Controle Link usado na p&#xE1;gina Produtos do exemplo Controle de estoque](http://www.gvinci.com.br/manual/link3gv5.zoom80.png)                               **Controle Link usado na página Produtos do exemplo Controle de estoque**
 

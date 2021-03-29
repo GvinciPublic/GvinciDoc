@@ -1,4 +1,4 @@
-# Gvinci : Controles padrões de Pesquisa tabela
+# Controles padrões de Pesquisa tabela
 
 Os controles padrões que podem ser inseridos em uma **Pesquisa tabela** são os seguintes:
 

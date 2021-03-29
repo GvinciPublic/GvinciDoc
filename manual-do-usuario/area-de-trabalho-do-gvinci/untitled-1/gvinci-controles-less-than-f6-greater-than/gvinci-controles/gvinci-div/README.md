@@ -1,4 +1,4 @@
-# Gvinci : Div
+# Div
 
 Um controle **Div** é utilizado como um "recipiente", ou "container", que pode conter textos, menus, figuras, etc.
 

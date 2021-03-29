@@ -1,4 +1,4 @@
-# Gvinci : DetailSection
+# DetailSection
 
 É a área de corpo do relatório.
 

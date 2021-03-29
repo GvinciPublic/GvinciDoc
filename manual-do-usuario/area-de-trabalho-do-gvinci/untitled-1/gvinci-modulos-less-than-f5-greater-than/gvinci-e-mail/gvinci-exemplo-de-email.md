@@ -1,4 +1,4 @@
-# Gvinci : Exemplo de Email
+# Exemplo de Email
 
 A tela abaixo pode ser visualizada no exemplo Site Institucional, na opção Novo do menu Arquivo:
 

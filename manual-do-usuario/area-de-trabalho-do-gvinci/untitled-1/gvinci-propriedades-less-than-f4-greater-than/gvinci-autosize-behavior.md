@@ -1,4 +1,4 @@
-# Gvinci : AutoSize Behavior
+# AutoSize Behavior
 
 **AutoExpandToContent:** Habilita o autodimensionamento do controle de acordo com seu conteúdo.
 

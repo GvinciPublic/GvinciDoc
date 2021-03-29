@@ -1,4 +1,4 @@
-# Gvinci : Itens de HtmlCodeControl
+# Itens de HtmlCodeControl
 
 A janela **Itens de HtmlCodeControl** é exibida após clicar no botão ![](http://www.gvinci.com.br/manual/extensor-botao.png) da propriedade "Parameters" do controle "HtmlCodeControl".
 

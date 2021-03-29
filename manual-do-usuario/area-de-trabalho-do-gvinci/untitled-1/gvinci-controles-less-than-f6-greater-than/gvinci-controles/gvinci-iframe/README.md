@@ -1,4 +1,4 @@
-# Gvinci : IFrame
+# IFrame
 
 Insere um controle **IFrame** no design.![Controle IFrame utilizado na p&#xE1;gina Principal do exemplo Controle de estoque](http://www.gvinci.com.br/manual/iframe1gv5.zoom80.png)                                    **Controle IFrame** utilizado na página Principal do exemplo Controle de estoque
 

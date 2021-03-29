@@ -1,4 +1,4 @@
-# Gvinci : Controles &lt;F6&gt;
+# Controles &lt;F6&gt;
 
 O painel Controles está separado por grupos e a exibição de alguns controles depende do módulo selecionado.
 

@@ -1,4 +1,4 @@
-# Gvinci : Eventos do AjaxPanel
+# Eventos do AjaxPanel
 
 Os eventos que podem ser inseridos no controle AjaxPanel são os seguintes:
 

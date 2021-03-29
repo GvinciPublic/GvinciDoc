@@ -1,4 +1,4 @@
-# Gvinci : Propriedades do DatePicker
+# Propriedades do DatePicker
 
 O controle **DatePicker** apresenta as propriedades conforme imagens abaixo:
 

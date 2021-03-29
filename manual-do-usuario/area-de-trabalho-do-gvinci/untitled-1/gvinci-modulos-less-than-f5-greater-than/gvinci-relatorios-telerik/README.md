@@ -1,4 +1,4 @@
-# Gvinci : Relatórios Telerik
+# Relatórios Telerik
 
 Na versão **Gvinci** web Ouro, o recurso de criar relatórios **Telerik** foi adicionado.
 

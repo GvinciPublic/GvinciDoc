@@ -1,4 +1,4 @@
-# Gvinci : Propriedades do Link
+# Propriedades do Link
 
 As propriedades do controle **Link** são as seguintes:
 

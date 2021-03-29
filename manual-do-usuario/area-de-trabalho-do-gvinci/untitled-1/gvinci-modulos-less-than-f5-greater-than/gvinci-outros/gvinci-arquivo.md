@@ -1,4 +1,4 @@
-# Gvinci : Arquivo
+# Arquivo
 
 Permite a inserção de um arquivo em formato texto \(txt\) no painel Módulos da solução.
 

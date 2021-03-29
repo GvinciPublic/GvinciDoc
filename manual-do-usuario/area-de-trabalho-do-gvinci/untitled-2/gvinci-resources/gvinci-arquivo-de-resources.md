@@ -1,4 +1,4 @@
-# Gvinci : Arquivo de resources
+# Arquivo de resources
 
 O arquivo de recursos possui extensão **.resx**, seu conteúdo é formato **Xml** e armazena itens no formato **nome = valor**.
 

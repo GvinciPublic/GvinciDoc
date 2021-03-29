@@ -1,4 +1,4 @@
-# Gvinci : Declarando variáveis
+# Declarando variáveis
 
 Em **C\#**, quando se declara uma variável, também se declara o valor que ela vai comportar. Por exemplo:
 

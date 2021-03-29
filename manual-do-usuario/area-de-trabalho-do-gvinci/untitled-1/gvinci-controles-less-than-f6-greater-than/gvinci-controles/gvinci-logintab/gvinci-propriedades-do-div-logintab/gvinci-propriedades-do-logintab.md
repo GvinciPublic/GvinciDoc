@@ -1,4 +1,4 @@
-# Gvinci : Propriedades do LoginTab
+# Propriedades do LoginTab
 
 As propriedades do **LoginTab** são as seguintes:
 

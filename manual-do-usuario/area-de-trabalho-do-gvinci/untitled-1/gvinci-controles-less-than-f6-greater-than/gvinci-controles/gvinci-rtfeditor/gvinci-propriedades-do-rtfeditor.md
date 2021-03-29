@@ -1,4 +1,4 @@
-# Gvinci : Propriedades do RTFEditor
+# Propriedades do RTFEditor
 
 As propriedades do controle **RTFEditor** são as seguintes:
 

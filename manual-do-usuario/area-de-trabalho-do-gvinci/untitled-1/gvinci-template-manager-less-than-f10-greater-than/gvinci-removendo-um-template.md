@@ -1,4 +1,4 @@
-# Gvinci : Removendo um template
+# Removendo um template
 
 Somente os templates de usuário podem ser removidos.
 

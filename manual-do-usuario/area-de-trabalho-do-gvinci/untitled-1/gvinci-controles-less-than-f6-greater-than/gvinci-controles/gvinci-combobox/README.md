@@ -1,4 +1,4 @@
-# Gvinci : ComboBox
+# ComboBox
 
 Insere um combo que apresenta uma seta "cortina" ou "drop-down". Ao pressionar esta seta, aparece uma lista de opções para escolha do usuário.![Controle ComboBox utilizado na p&#xE1;gina Produtos do exemplo Controle de estoque](http://www.gvinci.com.br/manual/comboboxgv5.zoom80.png)                                              **Controle ComboBox utilizado na página Produtos do exemplo Controle de estoque**
 

@@ -1,4 +1,4 @@
-# Gvinci : Wizard
+# Wizard
 
 O controle **Wizard** divide as telas em etapas mostrando o progresso.
 

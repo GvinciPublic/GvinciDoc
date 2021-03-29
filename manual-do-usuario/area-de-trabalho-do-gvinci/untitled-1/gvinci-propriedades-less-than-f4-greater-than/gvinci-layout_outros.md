@@ -1,4 +1,4 @@
-# Gvinci : Layout\_outros
+# Layout\_outros
 
 **Layout Alternating:**  
       **• HasAlternating / Alternador:** Ativa a exibição da área "Alternating" do controle  

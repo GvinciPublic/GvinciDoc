@@ -1,4 +1,4 @@
-# Gvinci : Eventos do CheckBox
+# Eventos do CheckBox
 
 Os eventos disponíveis para o controle **CheckBox** são os seguintes:
 

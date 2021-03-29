@@ -1,4 +1,4 @@
-# Gvinci : Sintaxe
+# Sintaxe
 
 A documentação do Microsoft .Net Framework apresenta as seguintes recomendações para a nomeação das variáveis:  
         • Evite usar sublinhado;  

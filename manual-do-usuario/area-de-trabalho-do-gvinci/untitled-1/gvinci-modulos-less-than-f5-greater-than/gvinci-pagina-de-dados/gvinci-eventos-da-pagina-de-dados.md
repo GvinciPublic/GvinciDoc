@@ -1,4 +1,4 @@
-# Gvinci : Eventos da Página de dados
+# Eventos da Página de dados
 
 Uma página de dados tem o controle Form como controle principal. Os eventos do controle Form são:
 

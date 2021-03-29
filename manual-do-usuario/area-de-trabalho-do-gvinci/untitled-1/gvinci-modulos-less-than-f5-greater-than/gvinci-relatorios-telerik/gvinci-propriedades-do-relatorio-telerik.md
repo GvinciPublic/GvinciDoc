@@ -1,4 +1,4 @@
-# Gvinci : Propriedades do Relatório Telerik
+# Propriedades do Relatório Telerik
 
 As propriedades do relatório Telerik ficam localizadas no canto inferior direito:
 

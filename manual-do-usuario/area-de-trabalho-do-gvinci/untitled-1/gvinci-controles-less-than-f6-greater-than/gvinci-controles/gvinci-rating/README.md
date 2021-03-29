@@ -1,4 +1,4 @@
-# Gvinci : Rating
+# Rating
 
 **Rating** é um controle utilizado para inserir classificações de visitas de websites.
 

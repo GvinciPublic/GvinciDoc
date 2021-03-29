@@ -1,4 +1,4 @@
-# Gvinci : Controle de Acesso
+# Controle de Acesso
 
 Permite criar um controle de acesso que será usado para cadastro de grupos de usuários com permissões para acessarem a aplicação.
 

@@ -1,4 +1,4 @@
-# Gvinci : Evento do Repeater
+# Evento do Repeater
 
 O controle **Repeater** possui os seguintes eventos:
 

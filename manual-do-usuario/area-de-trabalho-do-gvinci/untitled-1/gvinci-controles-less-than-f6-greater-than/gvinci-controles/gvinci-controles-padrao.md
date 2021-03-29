@@ -1,4 +1,4 @@
-# Gvinci : Controles Padrão
+# Controles Padrão
 
 São controles pré-definidos do **Gvinci** que obedecem a padrões já conhecidos e muito utilizados.
 

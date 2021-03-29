@@ -1,4 +1,4 @@
-# Gvinci : Variáveis
+# Variáveis
 
 Variáveis são apelidos que damos aos blocos de memória que podem ser usados para armazenar dados durante a execução de um programa. Podemos guardar informações dos mais variados tipos em variáveis: valores inteiros ou de número flutuante, palavras, frases, textos e referências a controles de classes.
 

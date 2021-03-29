@@ -1,4 +1,4 @@
-# Gvinci : Table
+# Table
 
 Insere uma tabela no design.
 

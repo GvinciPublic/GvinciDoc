@@ -1,4 +1,4 @@
-# Gvinci : Propriedades do Captcha
+# Propriedades do Captcha
 
 O controle **Captcha** apresenta as propriedades conforme imagens abaixo:
 

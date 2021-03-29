@@ -1,4 +1,4 @@
-# Gvinci : Módulos &lt;F5&gt;
+# Módulos &lt;F5&gt;
 
 Os módulos são controles na forma de janelas, páginas ou formulários. Na criação de um novo projeto, a Página Inicial é o primeiro módulo criado automaticamente. A partir daí, você poderá inserir vários tipos de módulos, tais como, uma Página de dados, Relatórios, Consultas, Filtros, etc.
 

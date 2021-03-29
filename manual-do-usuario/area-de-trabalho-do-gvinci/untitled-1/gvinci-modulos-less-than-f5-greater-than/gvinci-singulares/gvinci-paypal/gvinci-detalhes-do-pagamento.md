@@ -1,4 +1,4 @@
-# Gvinci : Detalhes do pagamento
+# Detalhes do pagamento
 
 ![](http://www.gvinci.com.br/manual/detalhespagamento.png)
 

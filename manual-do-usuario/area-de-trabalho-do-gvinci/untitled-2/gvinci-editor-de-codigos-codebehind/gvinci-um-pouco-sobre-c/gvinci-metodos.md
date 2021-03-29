@@ -1,4 +1,4 @@
-# Gvinci : Métodos
+# Métodos
 
 Um método é um bloco de código que contém uma série de instruções. Em C\#, cada instrução é executada no contexto de um método.
 

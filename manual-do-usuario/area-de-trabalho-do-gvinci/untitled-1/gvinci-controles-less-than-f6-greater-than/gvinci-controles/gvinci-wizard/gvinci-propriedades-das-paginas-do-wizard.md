@@ -1,4 +1,4 @@
-# Gvinci : Propriedades das Páginas do Wizard
+# Propriedades das Páginas do Wizard
 
 As propriedades das páginas do controle Wizard são as seguintes:
 

@@ -1,4 +1,4 @@
-# Gvinci : Propriedades do Twitter
+# Propriedades do Twitter
 
 As propriedades do controle Twitter são as seguintes:
 

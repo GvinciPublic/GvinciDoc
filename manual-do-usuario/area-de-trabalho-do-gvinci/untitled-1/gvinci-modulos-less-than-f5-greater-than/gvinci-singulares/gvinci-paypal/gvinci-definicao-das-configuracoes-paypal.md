@@ -1,4 +1,4 @@
-# Gvinci : Definição das configurações paypal
+# Definição das configurações paypal
 
 ![](http://www.gvinci.com.br/manual/paypal1.zoom84.png)
 

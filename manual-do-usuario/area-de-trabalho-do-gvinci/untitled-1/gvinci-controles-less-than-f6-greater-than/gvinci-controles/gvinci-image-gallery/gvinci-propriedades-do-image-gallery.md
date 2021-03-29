@@ -1,4 +1,4 @@
-# Gvinci : Propriedades do Image Gallery
+# Propriedades do Image Gallery
 
 O controle **Image Gallery** apresenta as propriedades conforme imagens abaixo:
 

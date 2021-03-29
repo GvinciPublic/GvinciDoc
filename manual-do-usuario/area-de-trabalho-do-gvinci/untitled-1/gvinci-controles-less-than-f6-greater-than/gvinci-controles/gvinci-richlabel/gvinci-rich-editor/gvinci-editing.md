@@ -1,4 +1,4 @@
-# Gvinci : Editing
+# Editing
 
 A seção Editing da barra de ferramentas do Rich Editor apresenta os seguintes botões:
 

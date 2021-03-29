@@ -1,4 +1,4 @@
-# Gvinci : AjaxPanel
+# AjaxPanel
 
 Insere um painel do tipo Ajax no design. Neste tipo de painel poderão ser inseridos outros tipos de controles que serão atualizados independentemente dos outros controles da Página. 
 

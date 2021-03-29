@@ -1,4 +1,4 @@
-# Gvinci : Eventos do DatePicker
+# Eventos do DatePicker
 
 O controle **DatePicker**, utilizado para inserir datas, pode receber o seguinte evento:
 

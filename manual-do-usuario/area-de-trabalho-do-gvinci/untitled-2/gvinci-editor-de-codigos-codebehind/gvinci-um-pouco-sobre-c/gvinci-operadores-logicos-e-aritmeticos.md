@@ -1,4 +1,4 @@
-# Gvinci : Operadores lógicos e aritméticos
+# Operadores lógicos e aritméticos
 
 Observe a tabela abaixo que apresenta os operadores em Visual Basic e em C\#.
 

@@ -1,4 +1,4 @@
-# Gvinci : Evento do RadioButtonGroup
+# Evento do RadioButtonGroup
 
 O controle **RadioButtonGroup** possui o evento.
 

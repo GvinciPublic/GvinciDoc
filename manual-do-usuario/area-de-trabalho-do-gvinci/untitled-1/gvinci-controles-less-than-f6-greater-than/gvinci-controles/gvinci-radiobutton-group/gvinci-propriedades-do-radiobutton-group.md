@@ -1,4 +1,4 @@
-# Gvinci : Propriedades do RadioButton Group
+# Propriedades do RadioButton Group
 
 As propriedades do controle **RadioButtonGroup** são as seguintes:
 

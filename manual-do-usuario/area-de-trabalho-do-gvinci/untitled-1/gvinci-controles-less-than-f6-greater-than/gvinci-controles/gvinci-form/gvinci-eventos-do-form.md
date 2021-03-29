@@ -1,4 +1,4 @@
-# Gvinci : Eventos do Form
+# Eventos do Form
 
 Os eventos do controle **Form** são os seguintes:
 

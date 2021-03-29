@@ -1,4 +1,4 @@
-# Gvinci : Pesquisa tabela
+# Pesquisa tabela
 
 Para realizar uma pesquisa em uma Página de dados, você pode inserir o módulo Pesquisa tabela, no painel Módulos:
 

@@ -1,4 +1,4 @@
-# Gvinci : Relatórios
+# Relatórios
 
 É um módulo para definição de Relatórios, utilizando o **ReportViewer**.
 

@@ -1,4 +1,4 @@
-# Gvinci : Inserindo um relatório Telerik
+# Inserindo um relatório Telerik
 
 Neste tópico vamos inserir um relatório Telerik no exemplo Controle de Estoque.
 

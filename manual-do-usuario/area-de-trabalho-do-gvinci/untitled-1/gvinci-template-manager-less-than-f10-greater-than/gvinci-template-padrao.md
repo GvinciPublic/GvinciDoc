@@ -1,4 +1,4 @@
-# Gvinci : Template Padrão
+# Template Padrão
 
 As páginas que já estiverem vinculadas a um template exibem o ícone ![](http://www.gvinci.com.br/manual/templpadraobtgv5.png).
 

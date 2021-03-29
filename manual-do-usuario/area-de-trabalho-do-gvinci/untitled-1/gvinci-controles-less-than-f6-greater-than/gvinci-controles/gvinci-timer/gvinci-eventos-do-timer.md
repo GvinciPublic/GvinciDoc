@@ -1,4 +1,4 @@
-# Gvinci : Eventos do Timer
+# Eventos do Timer
 
 O controle **Timer** possui o seguinte evento:
 

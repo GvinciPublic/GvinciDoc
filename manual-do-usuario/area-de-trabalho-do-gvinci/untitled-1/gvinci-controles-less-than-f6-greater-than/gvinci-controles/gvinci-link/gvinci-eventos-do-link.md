@@ -1,4 +1,4 @@
-# Gvinci : Eventos do Link
+# Eventos do Link
 
 O controle **Link** possui dois eventos:
 

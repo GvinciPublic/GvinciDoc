@@ -1,4 +1,4 @@
-# Gvinci : Twitter
+# Twitter
 
 Exibe os **"Tweets"** de um determinado endereço.
 

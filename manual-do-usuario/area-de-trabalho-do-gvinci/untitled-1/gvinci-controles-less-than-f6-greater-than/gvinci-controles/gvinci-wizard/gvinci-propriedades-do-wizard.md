@@ -1,4 +1,4 @@
-# Gvinci : Propriedades do Wizard
+# Propriedades do Wizard
 
 As propriedades do controle **Wizard** são as seguintes:
 

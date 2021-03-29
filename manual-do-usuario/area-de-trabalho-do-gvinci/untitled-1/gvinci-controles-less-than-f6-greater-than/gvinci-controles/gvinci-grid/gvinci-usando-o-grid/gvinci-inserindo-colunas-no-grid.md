@@ -1,4 +1,4 @@
-# Gvinci : Inserindo colunas no Grid
+# Inserindo colunas no Grid
 
 Para inserir colunas no **Grid**, siga os passos abaixo:
 

@@ -1,4 +1,4 @@
-# Gvinci : Repeater - Alternating
+# Repeater - Alternating
 
 É semelhante à área **Body** descrita acima e geralmente contém cor diferente para diferenciar as linhas de dados exibidos. Os dados serão incluídos tanto na área **Body** quanto na área **Alternating**, mas esta última terá aparência \(cor\) diferente da primeira.
 

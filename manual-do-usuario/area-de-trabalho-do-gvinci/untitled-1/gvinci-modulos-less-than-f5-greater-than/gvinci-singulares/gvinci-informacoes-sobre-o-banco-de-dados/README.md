@@ -1,4 +1,4 @@
-# Gvinci : Informações sobre o banco de dados
+# Informações sobre o banco de dados
 
 Apresenta informações sobre bancos de dados tais como nomes de tabelas, campos e suas propriedades principais.
 

@@ -1,4 +1,4 @@
-# Gvinci : Map
+# Map
 
 Insere um controle **Map** no design para localização de endereços.
 

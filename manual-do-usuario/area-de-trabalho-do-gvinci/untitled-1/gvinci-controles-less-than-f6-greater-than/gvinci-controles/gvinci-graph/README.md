@@ -1,4 +1,4 @@
-# Gvinci : Graph
+# Graph
 
 Insere um objeto **Graph** no design.
 

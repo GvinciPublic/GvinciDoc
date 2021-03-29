@@ -1,4 +1,4 @@
-# Gvinci : Processo pré-definido
+# Processo pré-definido
 
 O módulo **Processo pré-definido** é utilizado para armazenar os itens de processos.
 

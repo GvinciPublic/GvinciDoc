@@ -1,4 +1,4 @@
-# Gvinci : Salvando um Template
+# Salvando um Template
 
 A grande vantagem no uso de templates é a economia de tempo e trabalho, pois todo o layout da tela pode ser usado quantas vezes desejar. Para salvar um template de um módulo, siga os passos abaixo:
 

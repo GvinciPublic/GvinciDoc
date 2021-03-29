@@ -1,4 +1,4 @@
-# Gvinci : Propriedades do IFrame
+# Propriedades do IFrame
 
 O controle **IFrame** apresenta as propriedades conforme imagens abaixo:
 

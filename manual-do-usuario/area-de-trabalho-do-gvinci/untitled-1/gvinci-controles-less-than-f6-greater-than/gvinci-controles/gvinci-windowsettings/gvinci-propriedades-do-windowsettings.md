@@ -1,4 +1,4 @@
-# Gvinci : Propriedades do WindowSettings
+# Propriedades do WindowSettings
 
 As propriedades do controle **WindowSettings** são as seguintes:
 

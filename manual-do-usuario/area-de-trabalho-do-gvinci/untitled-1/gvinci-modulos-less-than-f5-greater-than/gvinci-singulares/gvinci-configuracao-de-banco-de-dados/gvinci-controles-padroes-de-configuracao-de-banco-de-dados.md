@@ -1,4 +1,4 @@
-# Gvinci : Controles padrões de Configuração de Banco de Dados
+# Controles padrões de Configuração de Banco de Dados
 
 Os controles padrões para o módulo **Configuração de Banco de Dados** são os seguintes:
 

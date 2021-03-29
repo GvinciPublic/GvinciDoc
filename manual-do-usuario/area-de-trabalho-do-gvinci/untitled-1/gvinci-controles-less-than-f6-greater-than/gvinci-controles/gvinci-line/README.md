@@ -1,4 +1,4 @@
-# Gvinci : Line
+# Line
 
 Insere uma **linha**, geralmente utilizada para separar controles, no design.
 

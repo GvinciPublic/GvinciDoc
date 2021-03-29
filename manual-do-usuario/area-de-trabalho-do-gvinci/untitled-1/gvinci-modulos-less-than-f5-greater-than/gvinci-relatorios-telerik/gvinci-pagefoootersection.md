@@ -1,4 +1,4 @@
-# Gvinci : PageFoooterSection
+# PageFoooterSection
 
 É a área que corresponde ao RODAPÉ do relatório.
 

@@ -1,4 +1,4 @@
-# Gvinci : Galeria de Imagens &lt;F7&gt;
+# Galeria de Imagens &lt;F7&gt;
 
 A **Galeria de Imagens** pode ser aberta através do botão ![](http://www.gvinci.com.br/manual/bferr11gv5.png) ou então selecionando-se a propriedade **BackgroundImage** de qualquer controle que comporte uma imagem. Os controles que aceitam inserção de imagens são:
 

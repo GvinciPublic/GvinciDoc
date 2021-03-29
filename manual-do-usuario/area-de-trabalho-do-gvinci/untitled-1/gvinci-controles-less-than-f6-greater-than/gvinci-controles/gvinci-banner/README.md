@@ -1,4 +1,4 @@
-# Gvinci : Banner
+# Banner
 
 Permite inserir um texto ou uma figura em movimento dentro de um painel com botões para avançar e retroceder.
 

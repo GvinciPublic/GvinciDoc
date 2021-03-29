@@ -1,4 +1,4 @@
-# Gvinci : Propriedades do Label
+# Propriedades do Label
 
 As propriedades do **Label** são as seguintes:
 

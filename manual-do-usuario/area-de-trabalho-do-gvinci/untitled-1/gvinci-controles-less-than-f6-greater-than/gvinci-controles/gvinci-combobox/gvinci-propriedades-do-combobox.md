@@ -1,4 +1,4 @@
-# Gvinci : Propriedades do ComboBox
+# Propriedades do ComboBox
 
 O controle **ComboBox** apresenta as propriedades conforme imagens abaixo:
 

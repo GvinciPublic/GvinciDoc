@@ -1,4 +1,4 @@
-# Gvinci : Propriedades
+# Propriedades
 
 O controle **Banner** apresenta as propriedades conforme imagens abaixo:
 

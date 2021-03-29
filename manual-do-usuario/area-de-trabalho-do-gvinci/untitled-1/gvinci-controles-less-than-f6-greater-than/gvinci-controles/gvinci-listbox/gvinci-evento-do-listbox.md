@@ -1,4 +1,4 @@
-# Gvinci : Evento do ListBox
+# Evento do ListBox
 
 O controle Item do **ListBox** tem o seguinte evento:
 

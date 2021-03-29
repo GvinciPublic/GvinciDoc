@@ -1,4 +1,4 @@
-# Gvinci : Ações das Informações sobre o banco de dados
+# Ações das Informações sobre o banco de dados
 
 As ações para o módulo **Informações sobre o banco de dados** estão disponíveis no painel **Controles.**
 

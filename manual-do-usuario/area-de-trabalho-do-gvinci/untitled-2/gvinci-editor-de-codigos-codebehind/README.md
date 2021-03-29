@@ -1,4 +1,4 @@
-# Gvinci : Editor de Códigos \(CodeBehind\)
+# Editor de Códigos \(CodeBehind\)
 
 O **Gvinci** dispõe de um editor que pode ser utilizado para elaborar suas próprias rotinas avulsas e funções que serão integradas à aplicação.
 

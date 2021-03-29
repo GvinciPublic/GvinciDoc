@@ -1,4 +1,4 @@
-# Gvinci : Propriedades da página
+# Propriedades da página
 
 A figura abaixo apresenta as propriedades da página **Aspx.**
 

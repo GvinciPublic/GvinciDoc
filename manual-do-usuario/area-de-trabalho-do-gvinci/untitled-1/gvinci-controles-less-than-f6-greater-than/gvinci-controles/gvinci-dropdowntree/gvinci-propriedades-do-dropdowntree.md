@@ -1,4 +1,4 @@
-# Gvinci : Propriedades do DropDownTree
+# Propriedades do DropDownTree
 
 O controle **DropDownTree** \(árvore suspensa\) apresenta as propriedades conforme imagens abaixo:
 

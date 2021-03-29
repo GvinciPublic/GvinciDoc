@@ -1,4 +1,4 @@
-# Gvinci : Propriedades dos Itens do ListBox
+# Propriedades dos Itens do ListBox
 
 As propriedades de um Item do ListBox são exibidas após clicar no botão ![](http://www.gvinci.com.br/manual/extensor-botao.png) da propriedade Items.
 

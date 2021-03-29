@@ -1,4 +1,4 @@
-# Gvinci : RadioButton Group
+# RadioButton Group
 
 Permite formar um grupo de **RadioButtons** através da propriedade **Items.**
 

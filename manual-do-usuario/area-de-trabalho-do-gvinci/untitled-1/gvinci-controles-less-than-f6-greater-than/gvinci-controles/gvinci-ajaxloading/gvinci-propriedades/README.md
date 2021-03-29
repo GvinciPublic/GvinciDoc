@@ -1,4 +1,4 @@
-# Gvinci : Propriedades
+# Propriedades
 
 O controle **AjaxLoading** apresenta as propriedades conforme imagens abaixo:
 

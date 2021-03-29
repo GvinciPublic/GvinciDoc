@@ -1,4 +1,4 @@
-# Gvinci : Controles Padrões - Página de dados
+# Controles Padrões - Página de dados
 
 Os controles padrões para o módulo Página de dados são os seguintes:
 

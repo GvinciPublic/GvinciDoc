@@ -1,4 +1,4 @@
-# Gvinci : Construtor de Consultas
+# Construtor de Consultas
 
 Permite inserir um módulo de construtor de consulta.
 

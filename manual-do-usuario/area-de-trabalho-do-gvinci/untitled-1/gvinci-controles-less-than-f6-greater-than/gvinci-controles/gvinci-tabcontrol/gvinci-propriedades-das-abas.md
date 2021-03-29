@@ -1,4 +1,4 @@
-# Gvinci : Propriedades das abas
+# Propriedades das abas
 
 As abas \(guias\) do TabControl são chamadas de TabPages. Cada aba contém uma TabPage.
 

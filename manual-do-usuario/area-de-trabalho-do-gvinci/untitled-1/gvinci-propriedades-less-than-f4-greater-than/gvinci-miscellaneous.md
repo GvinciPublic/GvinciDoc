@@ -1,4 +1,4 @@
-# Gvinci : Miscellaneous
+# Miscellaneous
 
 **Alias / Apelido:** Permite definir uma variável de instância para o controle. Caso o controle esteja associado a um campo da tabela básica da página de dados, a variável que será gerada no código fonte \(AliasField\) representará o valor do campo da tabela. O alias definido nesta propriedade será exibido na janela de construção de fórmulas. 
 

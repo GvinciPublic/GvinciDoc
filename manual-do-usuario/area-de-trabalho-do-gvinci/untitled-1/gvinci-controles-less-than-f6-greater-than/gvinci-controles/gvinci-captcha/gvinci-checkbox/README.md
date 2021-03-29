@@ -1,4 +1,4 @@
-# Gvinci : CheckBox
+# CheckBox
 
 Caixa de verificação usada quando é preciso exibir várias opções.
 

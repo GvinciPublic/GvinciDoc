@@ -1,4 +1,4 @@
-# Gvinci : Importando uma pasta de imagens
+# Importando uma pasta de imagens
 
 O botão ![](http://www.gvinci.com.br/manual/importpastbtgv5.png) é usado para importar grupos ou pastas de imagens. Observe a localização do botão para importar imagens na figura abaixo:
 

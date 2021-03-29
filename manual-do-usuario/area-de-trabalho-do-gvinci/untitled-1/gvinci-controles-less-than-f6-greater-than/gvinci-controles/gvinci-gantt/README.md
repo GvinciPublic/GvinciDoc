@@ -1,4 +1,4 @@
-# Gvinci : Gantt
+# Gantt
 
 O controle Gantt insere um "diagrama de Gantt" que é um gráfico utilizado para controlar as etapas de um projeto.
 

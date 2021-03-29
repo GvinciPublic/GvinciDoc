@@ -1,4 +1,4 @@
-# Gvinci : Classes
+# Classes
 
 A Linguagem **C\#** é totalmente baseada no modelo de programação orientada a objetos, sendo assim, profundos conhecimentos em alguns de seus elementos principais são de fundamental importância para que possamos extrair o máximo da linguagem, sobretudo para aqueles desenvolvedores acostumados com outros modelos de programação estruturada e orientada a eventos.
 

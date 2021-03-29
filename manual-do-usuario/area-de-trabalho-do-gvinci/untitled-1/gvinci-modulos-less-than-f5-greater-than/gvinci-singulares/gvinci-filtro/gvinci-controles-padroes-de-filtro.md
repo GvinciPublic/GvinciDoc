@@ -1,4 +1,4 @@
-# Gvinci : Controles padrões de Filtro
+# Controles padrões de Filtro
 
 Os controles padrões que podem ser inseridos em um **Filtro** são os seguintes:
 

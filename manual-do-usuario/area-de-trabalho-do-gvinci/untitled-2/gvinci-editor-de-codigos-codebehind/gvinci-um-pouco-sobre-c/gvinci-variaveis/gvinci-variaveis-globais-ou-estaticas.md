@@ -1,4 +1,4 @@
-# Gvinci : Variáveis Globais ou estáticas
+# Variáveis Globais ou estáticas
 
 Em C\# não existe o conceito de variáveis globais, como existe em Visual Basic, onde podem ser utilizados os módulos. Caso seja necessário partilhar dados entre formulários, pode-se criar uma classe com as variáveis e declará-las como static.
 

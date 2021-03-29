@@ -1,4 +1,4 @@
-# Gvinci : Copiar Linhas Selecionadas
+# Copiar Linhas Selecionadas
 
 ![](http://www.gvinci.com.br/manual/copiagv5.png) Copia para a **Área de Transferência,** trechos de texto selecionados ou então controles do design.
 

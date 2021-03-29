@@ -1,4 +1,4 @@
-# Gvinci : Aplicando um template
+# Aplicando um template
 
 Para aplicar um template a um módulo selecionado:
 

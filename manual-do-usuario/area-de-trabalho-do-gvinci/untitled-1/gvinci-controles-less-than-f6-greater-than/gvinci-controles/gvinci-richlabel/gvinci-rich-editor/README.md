@@ -1,4 +1,4 @@
-# Gvinci : Rich editor
+# Rich editor
 
 O **Rich Editor** é um editor de textos que é aberto após clicar no botão ![](http://www.gvinci.com.br/manual/extensor-botao.png) da propriedade **Text** do controle **Rich Label.**
 

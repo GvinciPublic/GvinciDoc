@@ -1,4 +1,4 @@
-# Gvinci : Propriedades do Graph
+# Propriedades do Graph
 
 O controle **Graph** apresenta as propriedades conforme imagens abaixo:
 

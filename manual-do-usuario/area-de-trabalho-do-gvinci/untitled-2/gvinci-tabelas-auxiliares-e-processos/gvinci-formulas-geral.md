@@ -1,4 +1,4 @@
-# Gvinci : Fórmulas - Geral
+# Fórmulas - Geral
 
 ![](http://www.gvinci.com.br/manual/janelaformulagv.zoom94.png)
 

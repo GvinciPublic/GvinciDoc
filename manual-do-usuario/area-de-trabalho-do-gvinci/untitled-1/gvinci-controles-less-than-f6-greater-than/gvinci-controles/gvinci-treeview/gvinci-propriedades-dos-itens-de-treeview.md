@@ -1,4 +1,4 @@
-# Gvinci : Propriedades dos Itens de TreeView
+# Propriedades dos Itens de TreeView
 
 Até a versão do **Gvinci6**, no Grupo de Propriedades Dados, tínhamos apenas a opção **Node:**
 

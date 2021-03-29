@@ -1,4 +1,4 @@
-# Gvinci : Exemplo de lançamento
+# Exemplo de lançamento
 
 Este lançamento terá como tabela **ORIGEM a TB\_VENDAS** e como tabela **ALVO a TB\_CONTAS\_RECEBER.** Isso significa que novos registros serão criados na tabela **TB\_CONTAS\_RECEBER** cada vez que o lançamento for executado.
 

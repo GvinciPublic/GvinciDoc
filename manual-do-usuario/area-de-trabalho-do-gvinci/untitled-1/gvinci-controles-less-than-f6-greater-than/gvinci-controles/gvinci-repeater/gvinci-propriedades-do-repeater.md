@@ -1,4 +1,4 @@
-# Gvinci : Propriedades do Repeater
+# Propriedades do Repeater
 
 Esta área é usada para definir as configurações de todas as outras áreas do Repeater.
 

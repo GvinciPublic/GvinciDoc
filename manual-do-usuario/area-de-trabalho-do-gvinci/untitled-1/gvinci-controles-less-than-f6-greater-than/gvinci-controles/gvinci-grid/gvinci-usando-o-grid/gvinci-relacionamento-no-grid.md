@@ -1,4 +1,4 @@
-# Gvinci : Relacionamento no Grid
+# Relacionamento no Grid
 
 O Controle Grid pode funcionar \(mas não necessariamente\) como um form filho, por exemplo, uma tabela vendas pode ser "pai" e a tabela **vendas\_itens** pode ser "filha". Nesse caso, um campo poderá ser escolhido para manter o relacionamento entre as duas, por exemplo, o campo **Código da venda.**
 

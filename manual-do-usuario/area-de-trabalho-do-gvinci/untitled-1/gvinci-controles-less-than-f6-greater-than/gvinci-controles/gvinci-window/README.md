@@ -1,4 +1,4 @@
-# Gvinci : Window
+# Window
 
 O controle **Window** deve ser inserido dentro do controle **WindowSettings,** que possui configurações específicas para receber uma janela \(controle Window\) em seu interior. Você pode inserir o controle Window arrastando-o para dentro do WindowSettings.
 

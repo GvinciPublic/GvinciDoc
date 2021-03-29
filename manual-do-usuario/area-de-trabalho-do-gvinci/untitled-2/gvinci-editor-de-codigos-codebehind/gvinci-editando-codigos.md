@@ -1,4 +1,4 @@
-# Gvinci : Editando códigos
+# Editando códigos
 
 Ao editar os códigos, é importante enfatizar que as palavras reservadas devem iniciar com letras minúsculas, enquanto que as palavras usadas para namespace, controles, métodos, iniciam com letra maiúscula.
 

@@ -1,4 +1,4 @@
-# Gvinci : Arquivo XML
+# Arquivo XML
 
 Insere um arquivo **XML** na árvore de módulos.
 

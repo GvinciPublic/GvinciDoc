@@ -1,4 +1,4 @@
-# Gvinci : Panel
+# Panel
 
 Insere um **recipiente** no design, usado para conter outros controles, formando, por exemplo, uma barra de status.
 

@@ -1,4 +1,4 @@
-# Gvinci : Controles Customizados
+# Controles Customizados
 
 Neste grupo temos alguns **Controles customizados** disponíveis para utilização.
 

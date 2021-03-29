@@ -1,4 +1,4 @@
-# Gvinci : RadioButton
+# RadioButton
 
 É semelhante ao **Checkbox,** permitindo que se marque e desmarque, habilitando ou desabilitando a opção desejada \(**True ou False**\), porém, somente uma opção pode ser marcada.
 

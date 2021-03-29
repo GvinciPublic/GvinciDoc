@@ -1,4 +1,4 @@
-# Gvinci : Variáveis de ambiente
+# Variáveis de ambiente
 
 Variável de ambiente é uma variável que contém informações sobre o sistema operacional, caminhos de diretórios e as preferências do usuário.
 

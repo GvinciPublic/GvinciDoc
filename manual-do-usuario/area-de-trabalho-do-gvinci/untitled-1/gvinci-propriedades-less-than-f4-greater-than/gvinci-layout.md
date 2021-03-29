@@ -1,4 +1,4 @@
-# Gvinci : Layout
+# Layout
 
 **AutoExpandToContent / Expandir pelo Conteúdo:** Permite que as dimensões do controle sejam aumentadas de acordo com o conteúdo
 

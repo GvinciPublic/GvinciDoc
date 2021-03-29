@@ -1,4 +1,4 @@
-# Gvinci : Configuração de banco de dados
+# Configuração de banco de dados
 
 Este é o primeiro módulo chamado na execução de uma aplicação após a exibição da tela de apresentação.
 

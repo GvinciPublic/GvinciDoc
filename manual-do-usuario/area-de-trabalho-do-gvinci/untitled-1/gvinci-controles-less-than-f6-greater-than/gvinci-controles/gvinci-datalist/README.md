@@ -1,4 +1,4 @@
-# Gvinci : DataList
+# DataList
 
 O controle **DataList** pode ser usado para listar dados repetidos verticalmente.
 

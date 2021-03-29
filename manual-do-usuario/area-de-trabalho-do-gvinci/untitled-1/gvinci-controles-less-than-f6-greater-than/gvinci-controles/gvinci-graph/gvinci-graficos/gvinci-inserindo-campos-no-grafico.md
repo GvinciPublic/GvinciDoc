@@ -1,4 +1,4 @@
-# Gvinci : Inserindo campos no Gráfico
+# Inserindo campos no Gráfico
 
    Para inserir dados no gráfico, siga os passos abaixo
 

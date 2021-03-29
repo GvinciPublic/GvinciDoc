@@ -1,4 +1,4 @@
-# Gvinci : Ferramentas do Editor de Códigos
+# Ferramentas do Editor de Códigos
 
 As ferramentas disponíveis no Editor de Código são mostradas abaixo.
 

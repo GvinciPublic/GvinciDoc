@@ -1,4 +1,4 @@
-# Gvinci : Habilitando a edição do design
+# Habilitando a edição do design
 
 Após ter aplicado um novo template ao módulo, os controles são bloqueados para edição. Para habilitar a edição dos controles no design, utilize o botão ![](http://www.gvinci.com.br/manual/btdes9gv5.zoom84.png), na barra de ferramentas.
 

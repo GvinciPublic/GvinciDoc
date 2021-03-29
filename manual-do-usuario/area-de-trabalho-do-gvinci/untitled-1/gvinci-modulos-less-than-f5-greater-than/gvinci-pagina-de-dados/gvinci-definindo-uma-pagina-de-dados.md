@@ -1,4 +1,4 @@
-# Gvinci : Definindo uma Página de dados
+# Definindo uma Página de dados
 
 Clique duas vezes sobre a **Página de Dados**, na árvore da solução. Em seguida, defina as **propriedades** da nova Página.![Defini&#xE7;&#xE3;o da p&#xE1;gina Entrada de produtos - Exemplo Controle de estoque](http://www.gvinci.com.br/manual/definepgdadosgv5.zoom89.png)
 

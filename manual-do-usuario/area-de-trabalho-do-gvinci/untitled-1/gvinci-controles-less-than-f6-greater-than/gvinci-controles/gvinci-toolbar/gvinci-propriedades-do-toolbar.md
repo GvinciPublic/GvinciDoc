@@ -1,4 +1,4 @@
-# Gvinci : Propriedades do ToolBar
+# Propriedades do ToolBar
 
 As propriedades do controle ToolBar são as seguintes:
 

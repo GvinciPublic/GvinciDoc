@@ -1,4 +1,4 @@
-# Gvinci : PasswordMeter
+# PasswordMeter
 
 O **PasswordMeter** é um controle que informa ao usuário se a senha utilizada é segura ou muito fácil de se descobrir.
 

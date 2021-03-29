@@ -1,4 +1,4 @@
-# Gvinci : Eventos do Botão
+# Eventos do Botão
 
 Os eventos do controle **Button** são os seguintes:
 

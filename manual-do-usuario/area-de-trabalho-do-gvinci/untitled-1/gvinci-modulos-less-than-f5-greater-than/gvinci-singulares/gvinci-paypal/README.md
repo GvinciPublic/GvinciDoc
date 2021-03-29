@@ -1,4 +1,4 @@
-# Gvinci : PayPal
+# PayPal
 
 Permite inserir um módulo integrado diretamente com **PayPal.**
 

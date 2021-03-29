@@ -1,4 +1,4 @@
-# Gvinci : Controles customizados &lt;F9&gt;
+# Controles customizados &lt;F9&gt;
 
 O painel Controles customizados permite criar e personalizar controles específicos para determinadas situações. São controles que possuem características próprias, geralmente usados com muita frequência, disponibilizados no painel Controles.
 

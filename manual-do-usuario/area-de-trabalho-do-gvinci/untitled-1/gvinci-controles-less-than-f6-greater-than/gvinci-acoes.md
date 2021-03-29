@@ -1,4 +1,4 @@
-# Gvinci : Ações
+# Ações
 
 As ações pré-definidas estão disponíveis no painel **Controles** e variam de acordo com o módulo selecionado.
 

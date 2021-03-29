@@ -1,4 +1,4 @@
-# Gvinci : Form
+# Form
 
 Um **Form** pode ser também chamado de Página, como na figura abaixo:
 

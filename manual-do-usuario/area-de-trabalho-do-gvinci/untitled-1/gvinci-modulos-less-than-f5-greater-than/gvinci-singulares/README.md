@@ -1,4 +1,4 @@
-# Gvinci : Singulares
+# Singulares
 
 
 

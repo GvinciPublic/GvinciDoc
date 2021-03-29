@@ -1,4 +1,4 @@
-# Gvinci : Desfazer Modificações
+# Desfazer Modificações
 
 ![](http://www.gvinci.com.br/manual/desfazgv5.png)   Desfaz quaisquer alterações que tenham sido efetuadas no **Editor de Códigos**.
 

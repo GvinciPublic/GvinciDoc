@@ -1,4 +1,4 @@
-# Gvinci : Ações do Construtor de consulta
+# Ações do Construtor de consulta
 
 As ações para o módulo **Construtor de consultas** estão disponíveis no painel **Controles**.
 

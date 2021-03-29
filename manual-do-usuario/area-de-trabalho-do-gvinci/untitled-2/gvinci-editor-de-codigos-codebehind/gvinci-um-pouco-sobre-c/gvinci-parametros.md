@@ -1,4 +1,4 @@
-# Gvinci : Parâmetros
+# Parâmetros
 
 Os parâmetros permitem que se defina sobre quais dados a função deve operar.
 

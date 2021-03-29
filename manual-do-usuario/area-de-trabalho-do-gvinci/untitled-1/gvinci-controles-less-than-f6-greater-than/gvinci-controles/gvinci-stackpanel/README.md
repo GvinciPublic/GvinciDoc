@@ -1,4 +1,4 @@
-# Gvinci : StackPanel
+# StackPanel
 
 Permite que você insira, dentro de um painel, controles empilhados na direção controlada pela propriedade **Orientation.**
 
