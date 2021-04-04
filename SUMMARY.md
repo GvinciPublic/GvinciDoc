@@ -4,7 +4,6 @@
 
 ## Manual do Usuário
 
-* [Introdução](manual-do-usuario/introducao.md)
 * [Get Started](manual-do-usuario/get-started/README.md)
   * [Baixando e instalando o GVinci](manual-do-usuario/get-started/instalacao-do-gvinci/README.md)
     * [Requisitos do Sistema](manual-do-usuario/get-started/instalacao-do-gvinci/requisitos-do-sistema.md)
