@@ -1,2 +1,0 @@
-# Tour rápido pelo Gvinci
-

@@ -1,4 +1,4 @@
-# Acessando o Gvinci
+# Tour rápido pelo Gvinci
 
 ## Tela inicial do Gvinci <a id="title-text"></a>
 
@@ -15,6 +15,4 @@ Na tela inicial do **Gvinci** você pode:
 **Mais soluções:** Ao clicar nesta opção, você poderá visualizar outras soluções existentes.
 
 **Não exibir novamente:** Marcando esta opção esta tela não aparecerá no próximo login no **Gvinci.**
-
-\*\*\*\*
 
