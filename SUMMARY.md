@@ -486,3 +486,7 @@
 
 ## Novidades
 
+---
+
+* [Release notes](release-notes.md)
+
