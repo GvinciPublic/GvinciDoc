@@ -1,5 +1,21 @@
 # Tour rápido pelo Gvinci
 
+## Tela inicial do Gvinci <a id="title-text"></a>
+
+Na tela inicial do **Gvinci** você pode:
+
+![](https://ssitecnologia.atlassian.net/wiki/download/thumbnails/2261037/image2020-12-1_9-48-56.png?version=1&modificationDate=1606830538423&cacheVersion=1&api=v2&width=664&height=400)
+
+**Criar uma nova solução:** Nesta opção você pode criar uma nova solução desde o início.
+
+**Importar um projeto do arquivo:** Clique nesta opção para fazer a importação de um projeto que tenha sido exportado anteriormente.
+
+**Soluções recentes:** Nesta lista são apresentadas as soluções utilizadas recentemente.
+
+**Mais soluções:** Ao clicar nesta opção, você poderá visualizar outras soluções existentes.
+
+**Não exibir novamente:** Marcando esta opção esta tela não aparecerá no próximo login no **Gvinci.**
+
 ## Criando nova Solução
 
 Após logar no **Gvinci**, temos vários caminhos para criar uma nova solução:  
@@ -40,23 +56,17 @@ Recebemos uma tela de confirmação:
 
 ![](https://ssitecnologia.atlassian.net/wiki/download/attachments/2261043/image2020-12-1_9-58-25.png?version=1&modificationDate=1606831107149&cacheVersion=1&api=v2)
 
+## Conhecendo a IDE do Gvinci
+
 E nossa solução foi criada, estando disponível para o desenvolvedor.
 
-## 
+A área de trabalho no **Gvinci** é composta de painéis e ferramentas, tornando o desenho de telas prático e fácil. A estrutura do projeto é exibida no painel Módulos da solução. As ferramentas oferecem rapidez na execução das tarefas mais usadas.
 
-## Tela inicial do Gvinci <a id="title-text"></a>
+A figura abaixo mostra a tela de uma solução default v. 2.0:
 
-Na tela inicial do **Gvinci** você pode:
+![](../.gitbook/assets/image%20%281%29.png)
 
-![](https://ssitecnologia.atlassian.net/wiki/download/thumbnails/2261037/image2020-12-1_9-48-56.png?version=1&modificationDate=1606830538423&cacheVersion=1&api=v2&width=664&height=400)
+A lista de erros \([Error list](http://www.gvinci.com.br/manual/error_list.htm)\), na parte inferior da área de trabaho, apresenta os erros no desenvolvimento da aplicação, com este recurso, pode-se corrigir os erros antes de gerar o código fonte.
 
-**Criar uma nova solução:** Nesta opção você pode criar uma nova solução desde o início.
-
-**Importar um projeto do arquivo:** Clique nesta opção para fazer a importação de um projeto que tenha sido exportado anteriormente.
-
-**Soluções recentes:** Nesta lista são apresentadas as soluções utilizadas recentemente.
-
-**Mais soluções:** Ao clicar nesta opção, você poderá visualizar outras soluções existentes.
-
-**Não exibir novamente:** Marcando esta opção esta tela não aparecerá no próximo login no **Gvinci.**
+##  <a id="title-text"></a>
 

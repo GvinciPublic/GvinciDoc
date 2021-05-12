@@ -1,2 +1,0 @@
-# Gerando os fontes
-

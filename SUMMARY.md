@@ -2,21 +2,12 @@
 
 * [Introdução](README.md)
 * [Novo? Inicie Aqui](get-started/README.md)
-  * [Tour rápido pelo Gvinci](get-started/tour-resumido-pelo-gvinci/README.md)
-    * [Criando nova Solução](get-started/tour-resumido-pelo-gvinci/criando-nova-solucao.md)
-    * [Abrindo uma Solução existente](get-started/tour-resumido-pelo-gvinci/abrindo-uma-solucao-existente.md)
-  * [Criando meu primeiro sistema web \(Exemplo 1\)](get-started/criando-um-sistema-web-exemplo-1/README.md)
-    * [Criando uma nova solução](get-started/criando-um-sistema-web-exemplo-1/criando-uma-nova-solucao.md)
-    * [Criando o banco de dados](get-started/criando-um-sistema-web-exemplo-1/criando-o-banco-de-dados.md)
-    * [Criando uma página de dados](get-started/criando-um-sistema-web-exemplo-1/criando-uma-pagina-de-dados.md)
-    * [Gerando os fontes](get-started/criando-um-sistema-web-exemplo-1/gerando-os-fontes.md)
-    * [Testando o sistema gerado](get-started/criando-um-sistema-web-exemplo-1/testando-o-sistema-gerado.md)
+  * [Tour rápido pelo Gvinci](get-started/tour-resumido-pelo-gvinci.md)
+  * [Criando meu primeiro sistema web \(Exemplo 1\)](get-started/criando-um-sistema-web-exemplo-1.md)
 
 ## Manual do Usuário
 
-* [Baixando e instalando o GVinci](manual-do-usuario/instalacao-do-gvinci/README.md)
-  * [Requisitos do Sistema](manual-do-usuario/instalacao-do-gvinci/requisitos-do-sistema.md)
-  * [Configuração do Banco de Dados](manual-do-usuario/instalacao-do-gvinci/configuracao-do-banco-de-dados.md)
+* [Baixando e instalando o GVinci](manual-do-usuario/instalacao-do-gvinci.md)
 * [Conhecendo a IDE do Gvinci](manual-do-usuario/area-de-trabalho-do-gvinci/README.md)
   * [Login no Gvinci](manual-do-usuario/area-de-trabalho-do-gvinci/login-no-gvinci/README.md)
     * [Esqueci minha senha](manual-do-usuario/area-de-trabalho-do-gvinci/login-no-gvinci/esqueci-minha-senha.md)
