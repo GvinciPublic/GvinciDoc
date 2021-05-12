@@ -1,4 +1,4 @@
-# Criando meu primeiro sistema web \(Exemplo 1\)
+# Criando um sistema web - Exemplo 1
 
 ## Criando uma nova solução
 

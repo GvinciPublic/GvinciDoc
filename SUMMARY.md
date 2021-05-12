@@ -1,9 +1,13 @@
 # Table of contents
 
 * [Introdução](README.md)
-* [Novo? Inicie Aqui](get-started/README.md)
-  * [Tour rápido pelo Gvinci](get-started/tour-resumido-pelo-gvinci.md)
-  * [Criando meu primeiro sistema web \(Exemplo 1\)](get-started/criando-um-sistema-web-exemplo-1.md)
+* [Novo? Inicie Aqui](get-started.md)
+
+## Primeiros Passos
+
+* [Tour rápido pelo Gvinci](primeiros-passos/tour-resumido-pelo-gvinci.md)
+* [Criando meu primeiro sistema web](primeiros-passos/criando-um-sistema-web-exemplo-1/README.md)
+  * [Criando um sistema web - Exemplo 1](primeiros-passos/criando-um-sistema-web-exemplo-1/criando-um-sistema-web-exemplo-1.md)
 
 ## Manual do Usuário
 
