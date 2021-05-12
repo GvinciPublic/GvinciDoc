@@ -13,10 +13,7 @@
 
 * [Baixando e instalando o GVinci](manual-do-usuario/instalacao-do-gvinci.md)
 * [Conhecendo a IDE do Gvinci](manual-do-usuario/area-de-trabalho-do-gvinci/README.md)
-  * [Login no Gvinci](manual-do-usuario/area-de-trabalho-do-gvinci/login-no-gvinci/README.md)
-    * [Esqueci minha senha](manual-do-usuario/area-de-trabalho-do-gvinci/login-no-gvinci/esqueci-minha-senha.md)
-    * [Informar código](manual-do-usuario/area-de-trabalho-do-gvinci/login-no-gvinci/informar-codigo.md)
-    * [Reconfigurar servidor](manual-do-usuario/area-de-trabalho-do-gvinci/login-no-gvinci/reconfigurar-servidor.md)
+  * [Acesso a IDE do Gvinci](manual-do-usuario/area-de-trabalho-do-gvinci/login-no-gvinci.md)
   * [Design](manual-do-usuario/area-de-trabalho-do-gvinci/design/README.md)
     * [Ferramentas do design](manual-do-usuario/area-de-trabalho-do-gvinci/design/ferramentas-do-design.md)
     * [Formatando a tela](manual-do-usuario/area-de-trabalho-do-gvinci/design/formatando-a-tela.md)
