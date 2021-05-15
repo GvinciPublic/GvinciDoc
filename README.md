@@ -20,8 +20,6 @@ O Gvinci é um gerador automático de sistemas elaborado para agilizar e facilit
 
 ![\(ideia\)](https://ssitecnologia.atlassian.net/wiki/s/498483778/6452/2dbf77146b49fd0d7c953bd263d14bc8774172ef/_/images/icons/emoticons/lightbulb_on.png)Na mesma solução gere Web, DeskTop e Web App Mob;
 
-testando
-
 
 
 
