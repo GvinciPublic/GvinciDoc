@@ -1,4 +1,4 @@
-# Definindo um projeto
+# Definindo projeto
 
 Quando inserimos um Projeto vazio, um projeto padrão já vem inserido na solução.
 
