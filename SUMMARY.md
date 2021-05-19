@@ -518,6 +518,7 @@
 
 * [Design](botoes/design.md)
 * [Barra de ferramentas](botoes/barra-de-ferramentas/README.md)
+  * [Botão: Procura](botoes/barra-de-ferramentas/botao-procura.md)
   * [Botão: Gerar arquivos para publicação](botoes/barra-de-ferramentas/ide-toolbar--botao-gerar-arquivos-para-publicacao.md)
   * [Botão: Abre pasta da solução](botoes/barra-de-ferramentas/botao-abre-pasta-da-solucao.md)
 

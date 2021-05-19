@@ -8,7 +8,7 @@ As seguintes teclas de atalho podem ser usadas no **Gvinci:**
 | **Ctrl + B** | Abre a [pasta da solução](../botoes/barra-de-ferramentas/botao-abre-pasta-da-solucao.md) |
 | **Ctrl + C** | Copia o conteúdo selecionado para a Área de transferência |
 | **Ctrl + F** | Permite efetuar busca na Solução e no Editor de códigos |
-| **Ctrl + G** | Gera o código fonte da solução |
+| **Ctrl + G** | Gera o código-fonte da solução |
 | **Ctrl + J** | Abre a solução atual no Visual Studio |
 | **Ctrl + K** | Move o controle selecionado para baixo |
 | **Ctrl + N** | Cria uma nova solução |
