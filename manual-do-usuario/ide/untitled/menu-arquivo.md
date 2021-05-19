@@ -6,35 +6,67 @@ O menu **Arquivo** contém as seguintes opções:
 
 **Vejamos as definições de cada opção:**
 
-**Novo:** Cria uma nova solução baseada em exemplos pré-definidos. 
+### **Novo**
 
-**Abrir:** Abre uma solução existente.
+Cria uma nova solução baseada em exemplos pré-definidos. 
 
-**Salvar:** Salva a solução atual.
+### **Abrir**
 
-**Fechar Solução:** Fecha a solução atual.
+Abre uma solução existente.
 
-**Importar solução do arquivo:** É usada para importar um projeto que tenha sido exportado anteriormente. Para detalhes, consulte o tópico Importando uma solução.
+### **Salvar**
 
-**Importar projeto do Father:** É usada para importar partes do projeto do gerador de sistemas para desktop da SSI Teconologia, chamado Father. Conheça-o no link: [www.father.inf.br](http://father.inf.br/)
+Salva a solução atual.
 
-**Exportar solução para arquivo:** Executa a exportação de uma solução. Para detalhes, consulte o tópico Exportando uma solução.
+### **Fechar Solução**
 
-**Abre pasta da solução:** Abre a pasta da solução definida nas propriedades da solução. Dentro desta pasta estará também a pasta do projeto.
+Fecha a solução atual.
 
-**Abre solução no Visual Studio:** Abre a solução atual no Visual Studio, após a geração do código fonte.
+### **Importar solução do arquivo**
 
-**Gerar código fonte:** Gera os fontes do projeto ou da solução. Somente é habilitada se todos os módulos do projeto estiverem totalmente definidos. Para detalhes, consulte Gerar fontes.
+É usada para importar um projeto que tenha sido exportado anteriormente. Para detalhes, consulte o tópico Importando uma solução.
 
-**Gerar arquivos para publicação:** Executa a criação dos arquivos para publicação da solução.
+### **Importar projeto do Father**
 
-**Procurar:** Realiza uma busca na Solução.
+É usada para importar partes do projeto do gerador de sistemas para desktop da SSI Teconologia, chamado Father. Conheça-o no link: [www.father.inf.br](http://father.inf.br/)
 
-**Atualizar Templates/Images:** Executa a atualização dos Templates de sistema e das Figuras na Galeria de Imagens, na pasta Imagens do Sistema.
+### **Exportar solução para arquivo**
 
-**Abrir recentes:** Exibe a caixa "Abrir" com as soluções usadas recentemente.
+Executa a exportação de uma solução. Para detalhes, consulte o tópico Exportando uma solução.
 
-**Recentes:** Exibe uma lista das soluções usadas recentemente.
+### **Abre pasta da solução**
 
-**Fechar:** Fecha o Gvinci.
+Abre a pasta da solução definida nas propriedades da solução. Dentro desta pasta estará também a pasta do projeto.
+
+### **Abre solução no Visual Studio**
+
+Abre a solução atual no Visual Studio, após a geração do código fonte.
+
+### **Gerar código fonte**
+
+Gera os fontes do projeto ou da solução. Somente é habilitada se todos os módulos do projeto estiverem totalmente definidos. Para detalhes, consulte Gerar fontes.
+
+### **Gerar arquivos para publicação**
+
+Executa a criação dos arquivos para publicação da solução.
+
+### **Procurar**
+
+Realiza uma busca na Solução.
+
+### **Atualizar Templates/Images**
+
+Executa a atualização dos Templates de sistema e das Figuras na Galeria de Imagens, na pasta Imagens do Sistema.
+
+### **Abrir recentes**
+
+Exibe a caixa "Abrir" com as soluções usadas recentemente.
+
+### **Recentes**
+
+Exibe uma lista das soluções usadas recentemente.
+
+### **Fechar**
+
+Fecha o Gvinci.
 
