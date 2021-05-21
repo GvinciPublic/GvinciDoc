@@ -1,7 +1,7 @@
 ---
 description: >-
   Bem-vindo ao Gvinci Docs. Este é um local onde é possível encontrar todas as
-  informações sobre o Gvinci Low-code Platform
+  informações sobre o Gvinci Low-code Platform.
 ---
 
 # Introdução

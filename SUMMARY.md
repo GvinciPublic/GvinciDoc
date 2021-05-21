@@ -363,14 +363,14 @@
       * [Miscellaneous](manual-do-usuario/ide/untitled-1/gvinci-propriedades-less-than-f4-greater-than/gvinci-miscellaneous.md)
       * [NavigationReference](manual-do-usuario/ide/untitled-1/gvinci-propriedades-less-than-f4-greater-than/gvinci-navigationreference.md)
       * [Transição](manual-do-usuario/ide/untitled-1/gvinci-propriedades-less-than-f4-greater-than/gvinci-transicao.md)
-    * [Template Manager &lt;F10&gt;](manual-do-usuario/ide/untitled-1/gvinci-template-manager-less-than-f10-greater-than/README.md)
-      * [Aplicando um template](manual-do-usuario/ide/untitled-1/gvinci-template-manager-less-than-f10-greater-than/gvinci-aplicando-um-template.md)
-      * [Atualizando templates](manual-do-usuario/ide/untitled-1/gvinci-template-manager-less-than-f10-greater-than/gvinci-atualizando-templates.md)
-      * [Backup de Templates](manual-do-usuario/ide/untitled-1/gvinci-template-manager-less-than-f10-greater-than/gvinci-backup-de-templates.md)
-      * [Habilitando a edição do design](manual-do-usuario/ide/untitled-1/gvinci-template-manager-less-than-f10-greater-than/gvinci-habilitando-a-edicao-do-design.md)
-      * [Removendo um template](manual-do-usuario/ide/untitled-1/gvinci-template-manager-less-than-f10-greater-than/gvinci-removendo-um-template.md)
-      * [Salvando um Template](manual-do-usuario/ide/untitled-1/gvinci-template-manager-less-than-f10-greater-than/gvinci-salvando-um-template.md)
-      * [Template Padrão](manual-do-usuario/ide/untitled-1/gvinci-template-manager-less-than-f10-greater-than/gvinci-template-padrao.md)
+    * [Template Manager &lt;F10&gt;](manual-do-usuario/ide/untitled-1/template-manager/README.md)
+      * [Aplicando um template](manual-do-usuario/ide/untitled-1/template-manager/gvinci-aplicando-um-template.md)
+      * [Atualizando templates](manual-do-usuario/ide/untitled-1/template-manager/gvinci-atualizando-templates.md)
+      * [Backup de Templates](manual-do-usuario/ide/untitled-1/template-manager/gvinci-backup-de-templates.md)
+      * [Habilitando a edição do design](manual-do-usuario/ide/untitled-1/template-manager/gvinci-habilitando-a-edicao-do-design.md)
+      * [Removendo um template](manual-do-usuario/ide/untitled-1/template-manager/gvinci-removendo-um-template.md)
+      * [Salvando um Template](manual-do-usuario/ide/untitled-1/template-manager/gvinci-salvando-um-template.md)
+      * [Template Padrão](manual-do-usuario/ide/untitled-1/template-manager/gvinci-template-padrao.md)
   * [Barra de ferramentas](manual-do-usuario/ide/barra-de-ferramentas/README.md)
     * [Personalizando sua barra de ferramentas](manual-do-usuario/ide/barra-de-ferramentas/personalizando-sua-barra-de-ferramentas/README.md)
       * [Inserindo uma imagem no botão](manual-do-usuario/ide/barra-de-ferramentas/personalizando-sua-barra-de-ferramentas/inserindo-uma-imagem-no-botao.md)
@@ -391,17 +391,17 @@
       * [Tamanhos](manual-do-usuario/ide/untitled/menu-designer/tamanhos.md)
   * [Atualização](manual-do-usuario/ide/atualizacao.md)
 * [Trabalhando com a solução](manual-do-usuario/trabalhando-com-a-solucao/README.md)
-  * [Definindo solução](manual-do-usuario/trabalhando-com-a-solucao/definindo-as-propriedades-da-solucao.md)
-  * [Definindo projeto](manual-do-usuario/trabalhando-com-a-solucao/definindo-um-projeto/README.md)
-    * [Criando uma página de Login](manual-do-usuario/trabalhando-com-a-solucao/definindo-um-projeto/criando-uma-pagina-de-login.md)
-    * [Gvinci : Informações para Autenticação](manual-do-usuario/trabalhando-com-a-solucao/definindo-um-projeto/gvinci-informacoes-para-autenticacao/README.md)
-      * [Gvinci : Autenticação de Grupos](manual-do-usuario/trabalhando-com-a-solucao/definindo-um-projeto/gvinci-informacoes-para-autenticacao/gvinci-autenticacao-de-grupos.md)
-      * [Gvinci : Autenticação de Usuários](manual-do-usuario/trabalhando-com-a-solucao/definindo-um-projeto/gvinci-informacoes-para-autenticacao/gvinci-autenticacao-de-usuarios.md)
-      * [Gvinci : Regras para Autenticação](manual-do-usuario/trabalhando-com-a-solucao/definindo-um-projeto/gvinci-informacoes-para-autenticacao/gvinci-regras-para-autenticacao.md)
-    * [Gvinci : Múltiplos projetos](manual-do-usuario/trabalhando-com-a-solucao/definindo-um-projeto/gvinci-multiplos-projetos.md)
-    * [Gvinci : Pasta do projeto](manual-do-usuario/trabalhando-com-a-solucao/definindo-um-projeto/gvinci-pasta-do-projeto.md)
-    * [Gvinci : Removendo um projeto](manual-do-usuario/trabalhando-com-a-solucao/definindo-um-projeto/gvinci-removendo-um-projeto.md)
-    * [Gvinci : Visualizando pastas](manual-do-usuario/trabalhando-com-a-solucao/definindo-um-projeto/gvinci-visualizando-pastas.md)
+  * [Definindo solução](manual-do-usuario/trabalhando-com-a-solucao/definindo-solucao.md)
+  * [Definindo projeto](manual-do-usuario/trabalhando-com-a-solucao/definindo-projeto/README.md)
+    * [Criando uma página de Login](manual-do-usuario/trabalhando-com-a-solucao/definindo-projeto/criando-uma-pagina-de-login.md)
+    * [Gvinci : Informações para Autenticação](manual-do-usuario/trabalhando-com-a-solucao/definindo-projeto/gvinci-informacoes-para-autenticacao/README.md)
+      * [Gvinci : Autenticação de Grupos](manual-do-usuario/trabalhando-com-a-solucao/definindo-projeto/gvinci-informacoes-para-autenticacao/gvinci-autenticacao-de-grupos.md)
+      * [Gvinci : Autenticação de Usuários](manual-do-usuario/trabalhando-com-a-solucao/definindo-projeto/gvinci-informacoes-para-autenticacao/gvinci-autenticacao-de-usuarios.md)
+      * [Gvinci : Regras para Autenticação](manual-do-usuario/trabalhando-com-a-solucao/definindo-projeto/gvinci-informacoes-para-autenticacao/gvinci-regras-para-autenticacao.md)
+    * [Gvinci : Múltiplos projetos](manual-do-usuario/trabalhando-com-a-solucao/definindo-projeto/gvinci-multiplos-projetos.md)
+    * [Gvinci : Pasta do projeto](manual-do-usuario/trabalhando-com-a-solucao/definindo-projeto/gvinci-pasta-do-projeto.md)
+    * [Gvinci : Removendo um projeto](manual-do-usuario/trabalhando-com-a-solucao/definindo-projeto/gvinci-removendo-um-projeto.md)
+    * [Gvinci : Visualizando pastas](manual-do-usuario/trabalhando-com-a-solucao/definindo-projeto/gvinci-visualizando-pastas.md)
   * [Gvinci : Excluindo uma solução](manual-do-usuario/trabalhando-com-a-solucao/gvinci-excluindo-uma-solucao.md)
   * [Gvinci : Exportando uma solução](manual-do-usuario/trabalhando-com-a-solucao/gvinci-exportando-uma-solucao.md)
   * [Gvinci : Fechando a solução](manual-do-usuario/trabalhando-com-a-solucao/gvinci-fechando-a-solucao.md)
@@ -420,6 +420,7 @@
   * [Gvinci : Salvando a solução](manual-do-usuario/trabalhando-com-a-solucao/gvinci-salvando-a-solucao.md)
 * [Teclas de atalho](manual-do-usuario/gvinci-teclas-de-atalho.md)
 * [Recursos Avançados](manual-do-usuario/untitled-2/README.md)
+  * [Rotas](manual-do-usuario/untitled-2/rotas.md)
   * [Tabelas auxiliares e Processos](manual-do-usuario/untitled-2/gvinci-tabelas-auxiliares-e-processos/README.md)
     * [Fórmulas - Geral](manual-do-usuario/untitled-2/gvinci-tabelas-auxiliares-e-processos/gvinci-formulas-geral.md)
     * [Inserindo tabelas auxiliares](manual-do-usuario/untitled-2/gvinci-tabelas-auxiliares-e-processos/gvinci-inserindo-tabelas-auxiliares.md)
@@ -461,6 +462,7 @@
 
 ## Tutoriais em Vídeo
 
+* [G-Meeting](tutoriais-em-video/g-meeting.md)
 * [Canal Youtube](tutoriais-em-video/youtube.md)
 * [Recursos](tutoriais-em-video/recursos/README.md)
   * [Introdução Básica a Responsividade](tutoriais-em-video/recursos/introducao-basica-a-responsividade.md)
@@ -508,17 +510,22 @@
 
 * [Untitled](propriedades/untitled.md)
 
+## Botões
+
+* [Design](botoes/design.md)
+* [Barra de ferramentas](botoes/barra-de-ferramentas/README.md)
+  * [Botão: Roda projeto no browser](botoes/barra-de-ferramentas/botao-roda-projeto-no-browser.md)
+  * [Botão: Procura](botoes/barra-de-ferramentas/botao-procura.md)
+  * [Botão: Gerar arquivos para publicação](botoes/barra-de-ferramentas/ide-toolbar--botao-gerar-arquivos-para-publicacao.md)
+  * [Botão: Abre pasta da solução](botoes/barra-de-ferramentas/botao-abre-pasta-da-solucao.md)
+
 ## Primeiros Passos
 
 * [Tour rápido pelo Gvinci](primeiros-passos/tour-resumido-pelo-gvinci.md)
 * [Criando meu primeiro sistema web](primeiros-passos/criando-um-sistema-web-exemplo-1/README.md)
   * [Criando um sistema web - Exemplo 1](primeiros-passos/criando-um-sistema-web-exemplo-1/criando-um-sistema-web-exemplo-1.md)
 
-## Botões
+## LEITURAS COMPLEMENTARES
 
-* [Design](botoes/design.md)
-* [Barra de ferramentas](botoes/barra-de-ferramentas/README.md)
-  * [Botão: Procura](botoes/barra-de-ferramentas/botao-procura.md)
-  * [Botão: Gerar arquivos para publicação](botoes/barra-de-ferramentas/ide-toolbar--botao-gerar-arquivos-para-publicacao.md)
-  * [Botão: Abre pasta da solução](botoes/barra-de-ferramentas/botao-abre-pasta-da-solucao.md)
+* [Bootstrap](leituras-complementares/bootstrap.md)
 
