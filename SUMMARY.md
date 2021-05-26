@@ -265,7 +265,7 @@
           * [Criar um relatório](manual-do-usuario/ide/untitled-1/bancos-de-dados-less-than-f8-greater-than/definindo-bancos/tabelas/criar-um-relatorio.md)
         * [Consultas](manual-do-usuario/ide/untitled-1/bancos-de-dados-less-than-f8-greater-than/definindo-bancos/consultas/README.md)
           * [Tipos de Consultas](manual-do-usuario/ide/untitled-1/bancos-de-dados-less-than-f8-greater-than/definindo-bancos/consultas/tipos-de-consultas.md)
-      * [Adaptando bancos](manual-do-usuario/ide/untitled-1/bancos-de-dados-less-than-f8-greater-than/adaptando-bancos.md)
+      * [Adaptando bancos](manual-do-usuario/ide/untitled-1/bancos-de-dados-less-than-f8-greater-than/adapta.md)
       * [Importando um banco de dados](manual-do-usuario/ide/untitled-1/bancos-de-dados-less-than-f8-greater-than/importando-um-banco-de-dados/README.md)
         * [Localização do banco](manual-do-usuario/ide/untitled-1/bancos-de-dados-less-than-f8-greater-than/importando-um-banco-de-dados/localizacao-do-banco.md)
         * [Sincronizando bancos - Gvinci & SQL Server](manual-do-usuario/ide/untitled-1/bancos-de-dados-less-than-f8-greater-than/importando-um-banco-de-dados/sincronizando-bancos-gvinci-and-sql-server.md)
