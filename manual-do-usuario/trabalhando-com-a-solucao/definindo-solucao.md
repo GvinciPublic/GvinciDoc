@@ -112,12 +112,6 @@ A Error List é atualizada cada vez que ocorre gravação da solução ou quando
 Apesar de ser um recurso muito importante, recomenda-se o uso da opção "Gerar Error List ao salvar" apenas na fase de aprendizado. A medida que a solução cresce muito, a varredura da solução por todas as propriedades a fim de localizar alguma inconsistência poderá causar lentidão do processo de gravação.
 {% endhint %}
 
-### **Atualizar resources automaticamente**
-
-{% hint style="danger" %}
-O recurso foi descontinuado e não figurará nas propriedades da solução em versões futuras.
-{% endhint %}
-
 ### **Framework alvo**
 
 ![](../../.gitbook/assets/image%20%2844%29.png)
