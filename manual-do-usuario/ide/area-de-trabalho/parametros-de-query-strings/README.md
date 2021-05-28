@@ -1,24 +1,46 @@
 # Parâmetros
 
-Os parâmetros são carregados por variáveis, que são os apelidos dos campos \(alias\), visto que os valores serão determinados durante a execução da aplicação, no preenchimento dos campos.
+![](../../../../.gitbook/assets/image%20%2875%29.png)
 
-![Par&#xE2;metros da P&#xE1;gina Movimenta&#xE7;&#xE3;o - Exemplo Controle de Estoque](http://www.gvinci.com.br/manual/param1gv5.zoom80.png)
+É possível que na navegação para uma página, passemos valores a serem usados na nova página requisitada. Para isso, existem as query strings nas páginas ASP.NET. A query string é uma sintaxe usada na URL \(endereço da página\) de modo que além do nome da página a ser aberta, passamos também informações por meio de pares "Nome" e "valor" pela barra de endereços ou pelo link de abertura.
 
-Parâmetros da Página Movimentação - Exemplo Controle de Estoque
+Dessa forma, se o caminho para uma página é http://www.meudominio.com.br/minhapagina.aspx e desejamos passar algumas informações que poderão ser usadas por essa página, acrescentamos um sinal de ? \(interrogação\) e seguimos com pares de "nomes" e "valores" unidos pelo símbolo & \(e comercial\).
 
-**Transferir o parâmetro via Session:** Permite que os valores dos parâmetros sejam passados a variáveis de sessão, para usuários específicos do sistema.
+Exemplo:
 
-Quando a página recebe uma chamada de outra página, é possível definir os valores desses parâmetros na janela **Eventos**.
+http://www.meudominio.com.br/minhapagina.aspx?campo1=valorcampo1&campo2=valorcampo2.
 
-![Eventos com par&#xE2;metros do bot&#xE3;o Confirmar em Relmovimenta&#xE7;&#xE3;o - Ex. Controle de Estoque](http://www.gvinci.com.br/manual/eventparam1gv5.zoom80.png)
+Dessa forma, a página minhapagina.aspx, poderá fazer uso dos valores informados na barra de endereço por meio do nome do campo definido na query string, ou seja, no Gvinci, definido na aba "Parâmetros".
 
-Eventos com parâmetros do botão Confirmar em Relmovimentação
+Esse é o conceito por trás do recurso de parâmetros do Gvinci, disponível para módulos como: Página, Página de dados, Relatório, Relatório Telerik, Processo pré-definido e Email.
 
-                               Ex. Controle de Estoque
+Com o Gvinci, sua preocupação será apenas definir um nome para o parâmetro, o tipo de dado que o parâmetro irá usar e se ele é opcional ou não. Todas as opções de uso de query strings \(parâmetros\), são feitas de forma prática e visual, sem necessidade de codificação manual.
 
-Ao clicar no botão ![](http://www.gvinci.com.br/manual/adicion1gv5.png) em destaque na figura acima, a janela Fórmula será exibida para a definição dos valores dos campos ou para inclusão de código manual através do botão ![](http://www.gvinci.com.br/manual/code-bt.png).
+**Opcional**
 
-![](http://www.gvinci.com.br/manual/eventosparm2gv5.zoom80.png)
+Ao marcar o checkbox opcional, o campo poderá ficar vazio, sem obrigatoriedade de preenchimento.
 
-A figura acima mostra os apelidos dos campos \(alias\) Data inicial e Data final da página RelMovimentação do exemplo Estoque.
+Cada parâmetro é adicionado ou removido da lista através dos botões + e -, respectivamente.
+
+![](../../../../.gitbook/assets/image%20%2876%29.png)
+
+### E depois que criamos os parâmetros?
+
+O valor de cada um dos parâmetros pode ser usado internamente na página onde os definiu e será usado também nos eventos de navegação para a página que os possui.
+
+Nas propriedades que permitem uso de fórmulas, como a propriedade "Text" de controles "Label", por exemplo, observará que aparecem além dos campos da tabela básica, [variáveis de ambiente customizadas](../../../trabalhando-com-a-solucao/definindo-projeto/), campos de tabelas de parâmetros, variáveis de sistema e os campos de parâmetros que vimos aqui como definir. Dessa forma, podemos usar os valores recebidos pela página, através da query string, ou seja, pela barra de endereço, para construir nossas fórmulas ou expressões de filtragens, por exemplo.
+
+![](../../../../.gitbook/assets/image%20%2877%29.png)
+
+O outro uso ocorrerá na página onde temos algum evento de navegação para a página que criamos os parâmetros.
+
+Abaixo, definição de evento de navegação para página que tem 2 parâmetros definidos, identificados como "DataInicial" e "DataFinal". Na imagem, estão sendo passados valores fixos para os parâmetros definidos, mas poderiam ser também fórmulas definidas através do botão de + \(mais\) do lado direito do campo.
+
+![](../../../../.gitbook/assets/image%20%2873%29.png)
+
+Caso a página tenha permissões de "Permitir acesso direto pela URL", através da aba "Definitions" do módulo específico, também poderá usar a barra de endereços para passar diretamente os valores pretentidos, como na expressão abaixo:
+
+http://www.meudominio.com.br/Pages/PaginaAspx.aspx?DataInicial=21/05/2021&DataFinal=22/05/2021
+
+
 
