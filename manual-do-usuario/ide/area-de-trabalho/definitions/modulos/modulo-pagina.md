@@ -89,7 +89,7 @@ Abaixo é apresentada meta tag que é acrescentada ao código de páginas que es
 Veja também: [The ViewPort](https://www.w3schools.com/css/css_rwd_viewport.asp).
 
 {% hint style="success" %}
-Não se preocupe que isso é feito de forma automática pelo Gvinci, não precisará interferir na codifigação desse recurso.
+Não se preocupe que isso é feito de forma automática pelo Gvinci, não precisará interferir na codificação desse recurso.
 {% endhint %}
 
 ### Permitir acesso direto pela URL
