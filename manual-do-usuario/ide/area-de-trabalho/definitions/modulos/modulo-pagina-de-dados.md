@@ -4,6 +4,10 @@
 
 ### Título
 
+Campo obrigatório. Define o título da página que é mostrado na árvore do projeto e que será exibido na barra de título do navegador com a página carregada.
+
+
+
 ### Nome
 
 ### Banco de dados
@@ -37,6 +41,8 @@
 ### Mobile
 
 ### Layout responsivo
+
+Ao habilitar essa propriedade estará habilitando também na paleta de controles, os controles específicos para desenho de tela com layout responsivo e suas respectivas propriedades.
 
 ## Definição de campos da tabela
 
