@@ -49,3 +49,17 @@ Adicionado novas propriedades para o grid, entre elas:
 * Modo de abertura das propriedades, conforme ultima forma exibida.
 * Adicionado ao grid a propriedade: EnableHeaderContextmenu
 
+## ?
+
+* Duplicação de Relatórios Telerik.
+* Adicionada propriedade Columns para container LayoutCol que indica um breakpoint comum para todos os breakpoints
+* Adicionada nova versão de Bootstrap.js. Popper.js e modificada a ordem de importação.
+* Adicionada cópia de Breakpoints
+* Adicionada propriedade SidebarAutoOpen no grupo PageLayout para definição do comportamento da Sidebar ao carregar a página.
+* Adicionadas propriedades ControlPadding, TextMargin e IconMargin para controles do tipo Button.
+* Acrescentada propriedade IconTextSpace para definição de espaçamento em ícones.
+* Adicionada propriedade FlexDirection em containers LayoutCol.
+* Adicionados os módulos de Header e Footer para definição de PageLayout em complemento ao módulo Sidebar.
+* Adicionada propriedade Width \(All\) para definição de largura fixa para Sidebar.
+* Adicionada propriedade Height \(All\) para definição de altura fixa para Header e Footer.
+
